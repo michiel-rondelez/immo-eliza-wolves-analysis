@@ -1,10 +1,8 @@
 import pandas as pd
 
-df = pd.read_csv("./data/raw/data.csv")
+df = pd.read_csv("./data/raw/data.csv", encoding='utf-8')
 
-id_column = df["Property ID"]
-
-for row in id_column:
+for row in df["Property ID"]:
     if row[0] == " ":
         row = row[1:]
     if row[-1] == " ":
