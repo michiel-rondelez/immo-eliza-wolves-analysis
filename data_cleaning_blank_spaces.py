@@ -7,5 +7,3 @@ for row in df["Property ID"]:
         row = row[1:]
     if row[-1] == " ":
         row = row[:-1]
-
-    
