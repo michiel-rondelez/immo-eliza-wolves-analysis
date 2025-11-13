@@ -3,11 +3,16 @@ import html
 
 properties_data = pd.read_csv("./data/raw/data.csv")
 
-#fix the html encoding
-properties_data['Locality name'] = properties_data['Locality name'].apply(lambda x: html.unescape(x))
+
 
 #remove duplicates
 
+
+#remove no price, rent , private sale
+
+
+#fix the html encoding
+properties_data['Locality name'] = properties_data['Locality name'].apply(lambda x: html.unescape(x))
 
 
 #everything to int except property ID
