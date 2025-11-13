@@ -145,7 +145,7 @@ class DataCleaner:
         self.clean_price()
         #self.clean_property_type()
         self.clean_garden_terrace()
-        self.clean_numeric_columns(['Number of rooms', 'Number of facades'])
+        self.clean_numeric_columns(['Number of rooms', 'Number of facades', 'Living area'])
         self.clean_surface_columns(['Garden Surface', 'Terrace Surface'])
         self.clean_equipped_kitchen()
         self.clean_furnished()
