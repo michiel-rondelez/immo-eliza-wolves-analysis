@@ -101,11 +101,11 @@ class DataCleaner:
     def clean_equipped_kitchen(self):
         def helper(x):
             if pd.isna(x) or str(x).strip() == "":
-                return None
+                return 0
             try:
                return int(float(x))
             except:
-                 return None
+                 return 0
 
         self.df['Equipped kitchen'] = self.df['Equipped kitchen'].apply(helper).astype("Int64")
         return self.df     
