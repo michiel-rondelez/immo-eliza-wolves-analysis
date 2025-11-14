@@ -31,7 +31,15 @@ properties_data = properties_data[~discarded_properties]
 #print(properties_data)
 
 #droping sales column as there's only one option left#########################################################################
-properties_data.drop('Type of sale', axis=1)
+#properties_data.drop('Type of sale', axis=1)
+
+properties_data = properties_data.drop(columns=['Type of sale'])
+print()
+print("Check if the column 'Type of sale' has been deleted")
+print()
+print(properties_data.columns)
+
+
 
 #fix the html encoding####################################################################################################
 properties_data['Locality name'] = properties_data['Locality name'].apply(lambda x: html.unescape(x))
