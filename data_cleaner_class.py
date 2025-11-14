@@ -40,7 +40,7 @@ class DataCleaner:
 
     # Clean Price column
     def clean_price(self):
-        self.df['Price'] = pd.to_numeric(self.df['Price'], errors='coerce').round().astype("Int64")
+        self.df['Price'] = pd.to_numeric(self.df['Price']).round().astype("Int64")
 
     # Clean Type of property
     def clean_property_type(self):

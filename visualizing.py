@@ -5,8 +5,12 @@ import numpy as np
 
 properties_data = pd.read_csv("clean_data_0.csv") #change to clean data
 
-print(properties_data.info())
-#properties_data.apply(pd.Series.value_counts)
+#print(properties_data.info())
+
+for col in properties_data:
+    properties_data[col].value_counts(normalize=False, sort=True, ascending=False, bins=None, dropna=True).to_csv(f"overview/value_counts_{col}.csv")
+
+#print(properties_data.select_dtypes(exclude=np.number).apply(pd.Series.value_counts(normalize=False, sort=True, ascending=False, bins=None, dropna=True)))
 
 
 #properties_data.apply(pd.Series.describe).to_csv('describe.csv', index=False)

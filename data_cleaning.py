@@ -11,21 +11,16 @@ properties_data = pd.read_csv("./data/raw/data.csv")
 #print(properties_data.head(10))
 
 #remove duplicates###########################################################################################################
-properties_data.drop_duplicates(subset=["Property ID"])
+properties_data = properties_data.drop_duplicates(subset=["Property ID"])
 #print("ID")
-print(properties_data.columns)
+#print(properties_data.columns)
 
 #remove price, rent , private sale, share + houses where price = 0 ######################################################################################
 properties_data['Price'].replace(r'^\s*$|^0.00$', np.nan, regex=True)#
 properties_data.dropna(subset=['Price'])
-discarded_properties = properties_data['Price'].isin([None, 0, 0.00, '0.00'])
+discarded_properties = properties_data['Price'].isin([None, 0, 0.00, '0.00', 'Price'])
 properties_data = properties_data[~discarded_properties]
-bool_price = pd.notnull(properties_data['Price'])
-count = 0
-for b in bool_price:
-    if not b:
-        print(b)
-properties_data = properties_data[bool_price]
+
 
 
 
@@ -47,6 +42,8 @@ properties_data['Locality name'] = properties_data['Locality name'].apply(lambda
 
 #everything to int except property ID###################################################################################
 properties_data = dc(properties_data).clean_all()
+
+print(properties_data.info())
 
 #properties_data['Garden Surface'] = properties_data['Garden'].copy()
 #properties_data['Terrace Surface'] = properties_data['Terrace'].copy()

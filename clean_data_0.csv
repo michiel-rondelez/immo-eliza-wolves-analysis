@@ -2883,8 +2883,6 @@ RBT00372,Koksijde,8670,270000,Appartment,Flat,Sale,2,51,0,0,0,0,0,,0,Unknown,,
 RBU38302,Oostende,8400,189000,Appartment,Flat,Sale,1,70,0,0,0,1,0,,0,Unknown,,27.0
 RBU40220,Oostende,8400,269000,Appartment,Flat,Sale,2,77,0,0,0,0,0,,0,Unknown,,
 RWC39974,Menen,8930,139000,House,House,Sale,3,105,1,0,0,1,0,3,0,Normal,,
-Property ID,Locality name,Postal code,,Type of property,Subtype of property,Type of sale,,,0,0,0,0,0,,0,State of building,,
-Property ID,Locality name,Postal code,,Type of property,Subtype of property,Type of sale,,,0,0,0,0,0,,0,State of building,,
 RBU39160,Tielt,8700,320000,Appartment,GroundFloor,Sale,2,130,0,0,0,1,0,,0,Unknown,,60.0
 RBU39151,Koksijde,8670,295000,Appartment,Flat,Sale,,93,0,0,0,1,0,,0,Unknown,,
 RBU39063,Staden,8840,219000,House,House,Sale,5,170,0,0,0,0,1,2,0,Unknown,,
@@ -3758,62 +3756,16 @@ VBD28605,Louvain-la-Neuve,1348,295000,Appartment,Flat,Sale,1,86,0,0,0,1,0,,0,New
 VBD28604,Louvain-la-Neuve,1348,488000,Appartment,Flat,Sale,3,121,0,0,0,1,0,,0,New,,10.0
 VBD28603,Louvain-la-Neuve,1348,476000,Appartment,Flat,Sale,3,121,0,0,0,1,0,,0,New,,10.0
 VBD28602,Louvain-la-Neuve,1348,476000,Appartment,Flat,Sale,3,122,0,0,0,1,0,,0,New,,10.0
-RBU65818,Herentals,2200,399000,Appartment,Flat,Sale,2,89,0,0,0,1,0,2,0,Excellent,,
-VBD49319,Braine-l'Alleud,1420,315000,Appartment,Flat,Sale,3,130,1,0,0,0,0,2,0,Excellent,,
-VBD49318,Waterloo,1410,450000,House,Villa,Sale,3,165,0,0,0,1,1,4,0,Unknown,,30.0
-RBU65817,Olen,2250,399000,House,House,Sale,3,153,0,0,0,1,1,4,0,Normal,,
-RBU65816,Lasne,1380,645000,House,House,Sale,3,140,1,0,1,1,1,4,0,Excellent,200.0,25.0
-RBU65815,Lasne,1380,895000,House,Villa,Sale,4,310,1,0,1,1,1,4,1,Normal,1800.0,250.0
-RBU65814,Izegem,8870,155000,House,House,Sale,3,165,1,0,0,1,1,2,0,Normal,110.0,20.0
-RBU65813,Oostrozebeke,8780,399000,House,House,Sale,3,165,1,0,0,1,1,3,0,Normal,150.0,46.0
-RBU65812,Sint-Niklaas,9100,597500,House,House,Sale,3,230,1,0,0,1,1,4,0,Excellent,,25.0
 VBD49316,Grivegnée,4030,219000,House,House,Sale,3,100,1,0,0,1,0,3,0,Normal,,25.0
 RBU65808,Halle,1500,250000,House,House,Sale,2,160,0,0,0,1,1,2,0,Unknown,,
-RBU65807,Aalst,9300,225000,House,House,Sale,2,85,0,0,0,1,1,2,0,To be renovated,,
-RBU65806,Dudzele,8380,250000,House,House,Sale,3,,0,0,0,0,1,2,0,Unknown,,
 VBD49314,Sint-Lambrechts-Woluwe,1200,500000,House,House,Sale,3,122,0,0,0,1,0,,0,Unknown,,
-RBU65802,Ieper,8900,750000,House,Cottage,Sale,4,1500,1,0,0,1,1,4,0,To be renovated,8000.0,
-RBU65801,Geluwe,8940,359000,House,House,Sale,2,152,0,0,0,1,1,2,0,Unknown,,99.0
-RBU65799,Wortegem-Petegem,9790,1650000,House,Villa,Sale,5,540,1,0,0,1,1,4,1,Excellent,,
-RBU65798,Wortegem-Petegem,9790,1650000,House,Villa,Sale,5,540,1,0,0,1,1,4,1,Excellent,,
-RBU65797,Moorslede,8890,1906009,House,House,Sale,4,500,0,0,0,1,1,4,0,Unknown,,
-RBU65796,Ramsel,2230,165000,House,Cottage,Sale,3,77,0,0,0,1,1,4,0,Normal,,
 VBD49312,Liege,4000,250000,Appartment,Flat,Sale,2,114,0,0,0,0,0,,0,Unknown,,
-RBU65795,Ramsel,2230,165000,House,Bungalow,Sale,3,77,0,0,0,1,1,4,0,Normal,,
-RBU65793,Geel,2440,479000,House,House,Sale,5,259,0,0,0,1,1,4,0,To be renovated,,
 VBD49311,Verviers,4800,199000,House,MixedBuilding,Sale,5,260,0,0,0,1,0,2,0,Unknown,,30.0
 VBD49310,Liege,4000,110000,Appartment,Flat,Sale,1,35,0,0,0,0,0,,0,Unknown,,
 VBD49309,Verviers,4800,199000,House,House,Sale,5,250,0,0,0,1,0,2,0,Unknown,,30.0
 VBD49308,Verviers,4800,270000,House,House,Sale,2,96,0,0,0,1,1,3,0,Unknown,85.0,
-VBD49307,La Louvière,7100,575000,House,MixedBuilding,Sale,2,,0,0,0,0,0,2,0,Unknown,,
-RBU65792,Ramsel,2230,165000,House,Chalet,Sale,3,77,0,0,0,1,1,4,0,Normal,,
 RBU65791,Diepenbeek,3590,299000,House,House,Sale,4,190,1,0,0,1,1,4,0,To renovate,,16.0
-RBU65790,Koningshooikt,2500,349000,House,House,Sale,3,207,0,0,0,1,1,3,0,Normal,85.0,10.0
-RBU65789,Sint-Katelijne-Waver,2860,429000,House,House,Sale,2,99,0,0,0,1,1,4,0,Normal,676.0,
-RBU65788,Grobbendonk,2280,1076000,House,Villa,Sale,5,596,0,0,0,1,1,4,1,New,1137.0,75.0
-RBU65787,Hulshout,2235,415000,House,House,Sale,3,133,0,0,0,1,1,3,0,Normal,,
 VBD49304,Profondeville,5170,479000,House,House,Sale,3,206,0,0,0,1,1,4,0,Unknown,210.0,100.0
-RBU65785,Wetteren,9230,493920,Appartment,Penthouse,Sale,3,126,1,0,0,1,1,,0,Unknown,,21.0
-RBU65784,Wetteren,9230,299792,Appartment,Flat,Sale,2,88,1,0,0,1,1,,0,Unknown,,5.0
-RBU65783,Wetteren,9230,269371,Appartment,Flat,Sale,2,79,1,0,0,1,1,,0,Unknown,,7.0
-RBU65782,Wetteren,9230,221521,Appartment,Flat,Sale,1,65,1,0,0,1,1,,0,Unknown,,9.0
-VBD49301,Lede,9340,503397,House,House,Sale,4,148,0,0,0,0,0,4,0,New,,
-VBD49300,Schriek,2223,420165,House,House,Sale,4,147,0,0,0,0,0,4,0,New,,
-VBD49299,Kapellen,2950,599018,House,House,Sale,3,185,0,0,0,0,0,4,0,New,,
-VBD49298,Bonheiden,2820,578231,House,House,Sale,4,154,0,0,0,0,0,4,0,New,,
-VBD49297,Bonheiden,2820,618264,House,House,Sale,4,190,0,0,0,0,0,4,0,New,,
-VBD49296,Onze-Lieve-Vrouw-Waver,2861,474016,House,House,Sale,4,183,0,0,0,0,0,4,0,New,,
-VBD49295,Bornem,2880,571979,House,House,Sale,3,176,0,0,0,0,0,4,0,New,,
-RBU65781,Antwerp,2060,275000,House,House,Sale,3,144,0,0,0,0,0,2,0,To be renovated,,
-RBU65780,Hoboken,2660,485000,House,House,Sale,5,244,0,0,0,0,1,2,0,Normal,,
-RBU65779,Antwerp,2018,799000,House,MasterHouse,Sale,4,272,0,0,0,1,1,2,0,Normal,29.0,
-RBU65778,Brakel,9660,1950000,House,House,Sale,5,519,0,0,0,1,1,4,1,Normal,,
-RBU65777,Aalst,9300,1030000,House,House,Sale,5,308,0,0,0,1,1,4,1,Normal,,
-RBU65776,Brakel,9660,1950000,House,Villa,Sale,5,519,0,0,0,1,1,4,1,Normal,,
-RBU65775,Geraardsbergen,9500,1290000,House,House,Sale,6,480,0,1,0,1,1,4,1,Normal,,
-RBU65774,Ninove,9400,1290000,House,Villa,Sale,6,480,0,1,0,1,1,4,1,Normal,,
-RBU65773,Lebbeke,9280,1030000,House,Villa,Sale,5,308,0,0,0,1,1,4,1,Normal,,
-VBD49294,Gilly,6060,170000,House,House,Sale,2,128,0,0,0,0,1,3,0,Normal,149.0,
 RBU65772,Hamont-Achel,3930,475000,House,House,Sale,3,176,0,0,0,0,0,4,0,To be renovated,,
 RBU65771,Lommel,3920,560000,House,House,Sale,3,230,0,0,0,1,1,4,0,Normal,,
 RBU65770,Maasmechelen,3630,225000,House,House,Sale,3,131,0,0,0,1,1,4,0,To renovate,,
@@ -3821,11 +3773,8 @@ RBU65769,Heusden-Zolder,3550,315000,House,House,Sale,4,209,0,0,0,0,1,3,0,New,,
 RBU65768,Keerbergen,3140,395000,House,House,Sale,2,149,0,0,0,1,1,,0,Unknown,,
 VBD49287,Sint-Jans-Molenbeek,1080,345000,Appartment,Flat,Sale,3,170,0,0,0,0,1,,0,Unknown,,
 RBU65765,Sint-Truiden,3800,1250000,House,House,Sale,6,500,0,0,0,0,0,,0,Normal,,
-RBU65763,Willebroek,2830,299000,House,MixedBuilding,Sale,2,177,0,0,0,0,0,3,0,To be renovated,,
 RBU65762,Linden,3210,1395000,House,House,Sale,4,284,0,0,0,1,1,4,1,Normal,,
 RBU65759,Hoeilaart,1560,480000,House,House,Sale,3,154,0,0,0,0,1,2,0,Fully renovated,36.0,
-RBU65758,Mortsel,2640,185000,Appartment,Flat,Sale,2,66,0,0,0,1,0,2,0,Normal,,
-VBD49281,Quaregnon,7390,225000,House,House,Sale,4,170,0,0,0,1,1,2,0,Unknown,130.0,
 VBD49278,Brussels,1000,399000,Appartment,GroundFloor,Sale,3,129,1,0,0,0,0,2,0,New,,
 VBD49277,Brussels,1000,410000,Appartment,Flat,Sale,3,126,1,0,0,0,0,2,0,New,,
 VBD49276,Brussels,1000,399000,Appartment,Flat,Sale,3,126,1,0,0,0,0,2,0,New,,
@@ -3834,38 +3783,6 @@ VBD49274,Brussels,1000,399000,Appartment,Flat,Sale,3,125,1,0,0,0,0,2,0,New,,
 VBD49270,Schaarbeek,1030,520000,House,House,Sale,2,135,1,0,0,1,1,2,0,New,25.0,25.0
 VBD49269,Schaarbeek,1030,349000,Appartment,Flat,Sale,2,78,1,0,0,1,1,2,0,New,,7.0
 VBD49267,Waremme,4300,259000,House,House,Sale,4,194,1,0,0,1,1,2,0,To be renovated,691.0,36.0
-RBU65818,Herentals,2200,399000,Appartment,Flat,Sale,2,89,0,0,0,1,0,2,0,Excellent,,
-VBD49319,Braine-l'Alleud,1420,315000,Appartment,Flat,Sale,3,130,1,0,0,0,0,2,0,Excellent,,
-VBD49318,Waterloo,1410,450000,House,Villa,Sale,3,165,0,0,0,1,1,4,0,Unknown,,30.0
-RBU65817,Olen,2250,399000,House,House,Sale,3,153,0,0,0,1,1,4,0,Normal,,
-RBU65816,Lasne,1380,645000,House,House,Sale,3,140,1,0,1,1,1,4,0,Excellent,200.0,25.0
-RBU65815,Lasne,1380,895000,House,Villa,Sale,4,310,1,0,1,1,1,4,1,Normal,1800.0,250.0
-RBU65814,Izegem,8870,155000,House,House,Sale,3,165,1,0,0,1,1,2,0,Normal,110.0,20.0
-RBU65813,Oostrozebeke,8780,399000,House,House,Sale,3,165,1,0,0,1,1,3,0,Normal,150.0,46.0
-RBU65812,Sint-Niklaas,9100,597500,House,House,Sale,3,230,1,0,0,1,1,4,0,Excellent,,25.0
-VBD49316,Grivegnée,4030,219000,House,House,Sale,3,100,1,0,0,1,0,3,0,Normal,,25.0
-RBU65808,Halle,1500,250000,House,House,Sale,2,160,0,0,0,1,1,2,0,Unknown,,
-RBU65807,Aalst,9300,225000,House,House,Sale,2,85,0,0,0,1,1,2,0,To be renovated,,
-RBU65806,Dudzele,8380,250000,House,House,Sale,3,,0,0,0,0,1,2,0,Unknown,,
-VBD28623,Louvain-la-Neuve,1348,440000,Appartment,Flat,Sale,3,117,0,0,0,1,0,,0,New,,10.0
-VBD28621,Louvain-la-Neuve,1348,349000,Appartment,Flat,Sale,2,83,0,0,0,1,0,,0,New,,10.0
-VBD28619,Louvain-la-Neuve,1348,455000,Appartment,Flat,Sale,3,117,0,0,0,1,0,,0,New,,41.0
-VBD28618,Louvain-la-Neuve,1348,364000,Appartment,Flat,Sale,2,83,0,0,0,1,0,,0,New,,30.0
-VBD28617,Louvain-la-Neuve,1348,389000,Appartment,Flat,Sale,2,96,0,0,0,1,0,,0,New,,5.0
-VBD28616,Louvain-la-Neuve,1348,454000,Appartment,Flat,Sale,3,117,0,0,0,1,0,,0,New,,22.0
-VBD28615,Louvain-la-Neuve,1348,274000,Appartment,Flat,Sale,1,66,0,0,0,1,0,,0,New,,5.0
-VBD28614,Louvain-la-Neuve,1348,382000,Appartment,Flat,Sale,2,91,0,0,0,1,0,,0,New,,6.0
-VBD28613,Louvain-la-Neuve,1348,373000,Appartment,Flat,Sale,2,90,0,0,0,1,0,,0,New,,5.0
-VBD28612,Louvain-la-Neuve,1348,370000,Appartment,Flat,Sale,2,91,0,0,0,1,0,,0,New,,6.0
-VBD28611,Louvain-la-Neuve,1348,390000,Appartment,Flat,Sale,2,93,0,0,0,1,0,,0,New,,9.0
-VBD28609,Louvain-la-Neuve,1348,344000,Appartment,Flat,Sale,2,87,0,0,0,1,0,,1,New,,3.0
-VBD28608,Louvain-la-Neuve,1348,364000,Appartment,Flat,Sale,2,91,0,0,0,1,0,,0,New,,6.0
-VBD28607,Louvain-la-Neuve,1348,384000,Appartment,Flat,Sale,2,93,0,0,0,1,0,,0,New,,9.0
-VBD28606,Louvain-la-Neuve,1348,344000,Appartment,Flat,Sale,2,89,0,0,0,1,0,,0,New,,11.0
-VBD28605,Louvain-la-Neuve,1348,295000,Appartment,Flat,Sale,1,86,0,0,0,1,0,,0,New,,10.0
-VBD28604,Louvain-la-Neuve,1348,488000,Appartment,Flat,Sale,3,121,0,0,0,1,0,,0,New,,10.0
-VBD28603,Louvain-la-Neuve,1348,476000,Appartment,Flat,Sale,3,121,0,0,0,1,0,,0,New,,10.0
-VBD28602,Louvain-la-Neuve,1348,476000,Appartment,Flat,Sale,3,122,0,0,0,1,0,,0,New,,10.0
 VBD28601,Louvain-la-Neuve,1348,470000,Appartment,Flat,Sale,3,121,0,0,0,1,0,,0,New,,10.0
 VBD28600,Louvain-la-Neuve,1348,470000,Appartment,Flat,Sale,3,122,0,0,0,1,0,,0,New,,10.0
 VBD28599,Louvain-la-Neuve,1348,470000,Appartment,Flat,Sale,3,121,0,0,0,1,0,,0,New,,25.0
@@ -3987,29 +3904,7 @@ RBU66324,Keerbergen,3140,380000,Appartment,Penthouse,Sale,3,130,0,0,0,1,1,,0,Unk
 RBU66323,Keerbergen,3140,450000,Appartment,Penthouse,Sale,2,92,0,0,0,1,0,,0,Unknown,,
 RBU66164,Opwijk,1745,315000,House,House,Sale,2,118,0,0,0,1,1,3,0,Unknown,,
 RBU66161,Opwijk,1745,415000,Appartment,Flat,Sale,3,145,1,0,0,0,0,2,0,Excellent,,
-VBD47309,Woluwe-saint-Etienne,1932,275000,Appartment,Flat,Sale,2,74,1,0,0,1,0,2,0,Normal,,2.0
-VBD46490,Overijse,3090,420000,House,House,Sale,3,189,1,0,0,1,1,4,0,Unknown,,
-RBU60687,Hoeilaart,1560,229000,Appartment,Flat,Sale,1,66,0,0,0,1,0,,0,Unknown,,26.0
 VBD49674,Wezembeek-Oppem,1970,1200000,House,Villa,Sale,3,240,1,0,0,1,1,4,0,Excellent,700.0,30.0
-RBU66385,Asse,1730,430000,House,House,Sale,3,,0,0,0,1,1,,0,Normal,,
-RBU66333,Aarschot,3200,329000,House,House,Sale,3,165,0,0,0,1,1,4,0,Unknown,,
-VBD49627,Beersel,1650,575000,House,House,Sale,2,150,0,0,0,1,1,4,0,Unknown,,60.0
-RBU66328,Sint-Genesius-Rode,1640,490000,Appartment,Duplex,Sale,3,131,0,0,0,1,0,,0,Unknown,,
-RBU66324,Keerbergen,3140,380000,Appartment,Penthouse,Sale,3,130,0,0,0,1,1,,0,Unknown,,
-RBU66323,Keerbergen,3140,450000,Appartment,Penthouse,Sale,2,92,0,0,0,1,0,,0,Unknown,,
-RBU66164,Opwijk,1745,315000,House,House,Sale,2,118,0,0,0,1,1,3,0,Unknown,,
-VBD47309,Woluwe-saint-Etienne,1932,275000,Appartment,Flat,Sale,2,74,1,0,0,1,0,2,0,Normal,,2.0
-VBD46490,Overijse,3090,420000,House,House,Sale,3,189,1,0,0,1,1,4,0,Unknown,,
-RBU60687,Hoeilaart,1560,229000,Appartment,Flat,Sale,1,66,0,0,0,1,0,,0,Unknown,,26.0
-VBD49674,Wezembeek-Oppem,1970,1200000,House,Villa,Sale,3,240,1,0,0,1,1,4,0,Excellent,700.0,30.0
-RBU66385,Asse,1730,430000,House,House,Sale,3,,0,0,0,1,1,,0,Normal,,
-RBU66333,Aarschot,3200,329000,House,House,Sale,3,165,0,0,0,1,1,4,0,Unknown,,
-VBD49627,Beersel,1650,575000,House,House,Sale,2,150,0,0,0,1,1,4,0,Unknown,,60.0
-RBU66328,Sint-Genesius-Rode,1640,490000,Appartment,Duplex,Sale,3,131,0,0,0,1,0,,0,Unknown,,
-RBU66324,Keerbergen,3140,380000,Appartment,Penthouse,Sale,3,130,0,0,0,1,1,,0,Unknown,,
-RBU66323,Keerbergen,3140,450000,Appartment,Penthouse,Sale,2,92,0,0,0,1,0,,0,Unknown,,
-RBU66164,Opwijk,1745,315000,House,House,Sale,2,118,0,0,0,1,1,3,0,Unknown,,
-RBU66161,Opwijk,1745,415000,Appartment,Flat,Sale,3,145,1,0,0,0,0,2,0,Excellent,,
 RBU66153,Machelen,1830,269000,Appartment,Flat,Sale,1,51,1,0,0,1,1,2,0,Excellent,,8.0
 RBU66144,Zellik,1731,179000,Appartment,Flat,Sale,2,72,0,0,0,1,0,,0,Excellent,,7.0
 RBU66143,Borchtlombeek,1761,479500,House,House,Sale,3,114,0,0,0,1,0,3,0,Unknown,,25.0
@@ -4039,10 +3934,6 @@ VBD49361,Tervuren,3080,290000,Appartment,Flat,Sale,2,94,1,0,0,1,0,2,0,To be reno
 RBU65840,Dilbeek,1700,465000,House,House,Sale,2,123,1,0,0,1,1,2,0,New,,18.0
 RBU65838,Zellik,1731,290000,Appartment,Flat,Sale,2,88,1,0,0,0,1,2,0,Excellent,277.0,
 RBU65834,Machelen,1830,1395000,House,House,Sale,4,328,0,0,0,1,1,4,0,Unknown,,
-RBU65808,Halle,1500,250000,House,House,Sale,2,160,0,0,0,1,1,2,0,Unknown,,
-RBU65768,Keerbergen,3140,395000,House,House,Sale,2,149,0,0,0,1,1,,0,Unknown,,
-RBU65762,Linden,3210,1395000,House,House,Sale,4,284,0,0,0,1,1,4,1,Normal,,
-RBU65759,Hoeilaart,1560,480000,House,House,Sale,3,154,0,0,0,0,1,2,0,Fully renovated,36.0,
 RBU65752,Sint-Kwintens-Lennik,1750,355000,House,House,Sale,5,180,0,0,0,1,1,3,0,To be renovated,,
 RBU65741,Wezembeek-Oppem,1970,549000,House,House,Sale,2,,1,0,1,1,0,3,0,Unknown,,25.0
 RBU65739,Asse,1730,349000,House,House,Sale,2,170,0,0,0,0,1,,0,Normal,,
@@ -4845,90 +4736,6 @@ RBU41882,Gingelom,3890,160000,House,MixedBuilding,Sale,,,0,0,0,1,0,3,0,Excellent
 RBU41881,Velm,3806,469000,House,MixedBuilding,Sale,5,,0,0,0,1,1,2,0,Excellent,515.0,
 RBU41880,Sint-Truiden,3800,199000,Appartment,Flat,Sale,,,0,0,0,1,0,,0,Unknown,,
 RBU41661,Leopoldsburg,3970,269000,House,House,Sale,,,0,0,0,1,0,3,0,Unknown,,
-RBU46088,Ham,3945,549000,House,House,Sale,5,198,0,0,0,1,1,4,0,Unknown,,
-RBU46085,Heppen,3971,299000,House,House,Sale,3,170,0,0,0,1,1,3,0,Unknown,,14.0
-RBU45983,Pelt,3900,289000,Appartment,Flat,Sale,3,113,0,0,0,1,0,,0,Normal,,
-RBU45904,Kuringen,3511,545000,House,House,Sale,4,183,0,0,0,0,1,3,1,Normal,,
-RBU45862,Hasselt,3500,399000,House,House,Sale,3,262,1,0,0,1,1,3,0,Unknown,,
-RBU45861,Houthalen-Helchteren,3530,249000,House,House,Sale,3,150,0,0,0,1,1,2,0,New,170.0,
-RBU45860,Houthalen-Helchteren,3530,389000,House,House,Sale,3,202,1,0,0,1,1,3,0,Excellent,80.0,
-RBU45744,Hamont-Achel,3930,425000,House,House,Sale,5,129,0,0,0,1,1,4,0,Unknown,,
-RBU45694,Leopoldsburg,3970,329000,House,House,Sale,5,215,0,0,0,1,1,2,0,Unknown,,
-RBU45691,Lummen,3560,257000,House,House,Sale,3,155,0,0,0,0,1,2,0,Unknown,,
-RBU45646,Lommel,3920,219000,Appartment,Flat,Sale,2,90,0,0,0,0,0,2,0,Unknown,,
-RBU45594,Houthalen-Helchteren,3530,375000,House,House,Sale,3,,0,0,0,1,0,3,0,Normal,,
-RBU45555,Houthalen,3530,500000,House,House,Sale,3,227,0,0,0,0,0,4,0,Normal,,
-RBU45528,Tessenderlo,3980,239000,House,House,Sale,6,275,1,0,0,1,1,2,0,Normal,,
-RBU45313,Koersel,3582,399000,House,House,Sale,3,158,1,0,0,1,1,4,0,Fully renovated,,
-RBU45311,Heusden-Zolder,3550,549000,House,House,Sale,5,285,1,0,0,1,1,4,0,Excellent,,
-RBU45310,Genk,3600,249000,Appartment,Flat,Sale,3,109,1,0,0,1,0,,0,Normal,,
-RBU45308,Beringen,3580,449000,Appartment,Flat,Sale,2,107,1,0,0,1,0,4,0,New,,
-RBU45307,Heusden-Zolder,3550,309000,Appartment,Flat,Sale,2,98,1,0,0,1,0,2,0,New,,
-RBU45302,Beringen,3580,449000,House,House,Sale,6,420,0,0,0,1,1,4,0,Fully renovated,,
-RBU45301,Beringen,3580,199000,House,House,Sale,3,,1,0,0,0,1,3,0,To renovate,170.0,
-RBU45300,Beringen,3580,319000,Appartment,Flat,Sale,2,,1,0,0,1,1,,0,Excellent,,
-RBU45298,Beringen,3580,1195000,Appartment,Penthouse,Sale,2,221,1,1,0,1,0,4,0,New,,
-RBU45272,Heusden-Zolder,3550,475000,Appartment,Flat,Sale,,,0,0,0,1,0,,0,Unknown,,
-RBU45268,Leopoldsburg,3970,289000,House,House,Sale,3,142,0,0,0,0,0,2,0,Unknown,,
-RBU45265,Bilzen,3740,280000,Appartment,Flat,Sale,2,136,0,0,0,1,0,,0,Unknown,,
-RBU45263,Leopoldsburg,3970,240000,House,House,Sale,3,182,0,0,0,0,1,2,0,Unknown,,
-RBU45262,Koersel,3582,198000,Appartment,Flat,Sale,2,96,0,0,0,0,0,,0,Unknown,,
-RBU44775,Riemst,3770,299000,House,House,Sale,3,239,0,0,0,0,1,3,0,Normal,,
-RBU44639,Dilsen-Stokkem,3650,285000,House,House,Sale,3,273,0,0,0,1,1,2,0,Unknown,,
-RBU44637,Dilsen-Stokkem,3650,319000,Appartment,Flat,Sale,2,78,0,0,0,1,1,,0,Unknown,,
-RBU44606,Lommel,3920,599000,House,Villa,Sale,4,242,0,0,0,1,1,,0,Normal,2785.0,
-RBU43979,Lanaken,3620,359000,House,House,Sale,3,157,0,0,0,1,1,4,0,Unknown,,
-RBU43768,Hasselt,3500,459000,Appartment,Flat,Sale,2,95,1,0,0,1,1,2,0,Unknown,,12.0
-RBU43581,Leopoldsburg,3970,495000,House,House,Sale,3,235,0,0,0,1,1,2,0,Unknown,,10.0
-RBU43442,Lummen,3560,250000,House,House,Sale,4,101,0,0,0,1,1,3,0,To be renovated,,
-RBU43429,Tongeren,3700,285000,House,House,Sale,3,240,0,0,0,0,1,,0,Unknown,,
-RBU43428,Tongeren,3700,216000,House,House,Sale,4,181,0,0,0,1,0,,0,Unknown,,
-RBU43427,Riemst,3770,199000,House,House,Sale,4,190,0,0,0,0,1,,0,To be renovated,,
-RBU43426,Berg,3700,649000,House,House,Sale,3,219,0,0,0,1,1,,0,Unknown,,
-RBU43425,Berg,3700,240000,House,House,Sale,4,156,0,0,0,1,0,,0,Excellent,,
-RBU43424,Beverst,3740,569000,House,House,Sale,4,295,0,0,0,0,1,,0,Unknown,,
-RBU43407,Leopoldsburg,3970,299000,Appartment,Flat,Sale,3,130,0,0,0,1,1,,0,Unknown,,
-RBU43238,Heppen,3971,399000,House,House,Sale,3,166,0,0,0,0,1,4,0,Unknown,,
-RBU43178,Koersel,3582,499000,House,House,Sale,3,174,0,0,0,1,1,2,0,Unknown,,16.0
-RBU43150,Dilsen-Stokkem,3650,355000,House,House,Sale,3,137,0,0,0,1,1,4,0,Unknown,,
-RBU42963,Leopoldsburg,3970,320000,Appartment,Flat,Sale,2,93,0,0,0,1,0,2,0,New,,25.0
-RBU42962,Leopoldsburg,3970,225000,Appartment,Flat,Sale,1,66,0,0,0,1,0,2,0,New,,17.0
-RBU42957,Leopoldsburg,3970,300000,Appartment,Penthouse,Sale,2,86,0,0,0,1,0,2,0,New,,33.0
-RBU42956,Leopoldsburg,3970,320000,Appartment,Penthouse,Sale,2,94,0,0,0,1,0,2,0,New,,32.0
-RBU42909,Genk,3600,749000,Appartment,Flat,Sale,2,127,0,0,0,1,1,,0,Normal,,63.0
-RBU42906,Vliermaal,3724,189000,House,House,Sale,4,213,0,0,0,0,1,4,0,To be renovated,,
-RBU42891,Neeroeteren,3680,385000,House,House,Sale,2,,0,0,0,1,1,4,0,Normal,,
-RBU42883,Beringen,3580,499000,Appartment,Flat,Sale,2,126,0,0,0,1,0,,0,New,,21.0
-RBU42882,Beringen,3580,389000,Appartment,Flat,Sale,2,126,0,0,0,1,0,,0,New,,68.0
-RBU42880,Beringen,3580,299000,Appartment,Flat,Sale,2,105,0,0,0,1,0,,0,New,,15.0
-RBU42879,Beringen,3580,309000,Appartment,Flat,Sale,2,113,0,0,0,1,0,,0,New,,21.0
-RBU42878,Beringen,3580,299000,Appartment,Flat,Sale,2,105,0,0,0,1,0,,0,New,,15.0
-RBU42668,Maasmechelen,3630,389000,House,House,Sale,3,155,0,0,0,1,1,3,0,Unknown,,
-RBU42667,Dilsen-Stokkem,3650,319000,Appartment,Duplex,Sale,3,137,0,0,0,1,1,,0,Unknown,,
-RBU42654,Tessenderlo,3980,239000,Appartment,Triplex,Sale,3,95,1,0,0,1,0,2,0,Excellent,,30.0
-RBU42627,Maaseik,3680,229500,Appartment,Flat,Sale,2,,0,0,0,1,0,,0,Unknown,,1.0
-RBU42624,Genk,3600,375000,House,House,Sale,3,174,0,0,0,1,1,3,0,Unknown,,
-RBU42623,Genk,3600,399000,House,House,Sale,4,169,0,0,0,1,1,3,0,Unknown,,
-RBU42356,Berg,3700,375000,House,House,Sale,5,253,0,0,0,1,1,2,0,Unknown,,
-RBU42355,Leopoldsburg,3970,495000,House,House,Sale,3,221,0,0,0,1,0,2,0,Unknown,,25.0
-RBU42354,Hasselt,3500,480000,House,House,Sale,3,225,0,0,0,1,1,2,0,Unknown,,36.0
-RBU42353,Wellen,3830,419000,Appartment,Duplex,Sale,3,154,0,0,0,1,0,,0,Unknown,,20.0
-RBU42352,Kuringen,3511,199000,Appartment,Flat,Sale,3,90,0,0,0,1,0,,0,Unknown,,
-RBU42246,Hasselt,3500,415000,House,House,Sale,3,,1,0,0,1,1,3,0,Fully renovated,,
-VBD34812,Tongeren,3700,169000,Appartment,Flat,Sale,1,70,1,0,0,1,0,2,0,Unknown,,10.0
-RBU42063,Paal,3583,195000,House,House,Sale,2,149,0,0,0,0,1,3,0,To be renovated,,
-RBU42054,Borgloon,3840,199000,House,House,Sale,,,0,0,0,1,0,3,0,Unknown,,
-RBU42052,Heusden-Zolder,3550,599000,House,House,Sale,5,370,0,0,0,1,1,2,0,Unknown,,
-RBU42047,Zutendaal,3690,429000,House,House,Sale,5,256,0,0,0,0,1,2,0,Unknown,,
-RBU42039,Bocholt,3950,299000,Appartment,Duplex,Sale,3,88,0,0,0,1,0,,0,Unknown,,
-RBU42038,Dilsen-Stokkem,3650,459000,House,House,Sale,3,232,0,0,0,1,1,3,1,Unknown,,
-RBU41940,Borgloon,3840,379000,House,House,Sale,3,132,0,0,0,1,1,3,0,Unknown,,20.0
-RBU24775,Velm,3806,279000,House,House,Sale,2,,0,0,0,0,1,,0,Excellent,,
-RBU41885,Hasselt,3500,499000,House,MixedBuilding,Sale,5,,0,0,0,0,0,4,0,Excellent,,
-RBU41882,Gingelom,3890,160000,House,MixedBuilding,Sale,,,0,0,0,1,0,3,0,Excellent,,
-RBU41881,Velm,3806,469000,House,MixedBuilding,Sale,5,,0,0,0,1,1,2,0,Excellent,515.0,
-RBU41880,Sint-Truiden,3800,199000,Appartment,Flat,Sale,,,0,0,0,1,0,,0,Unknown,,
-RBU41661,Leopoldsburg,3970,269000,House,House,Sale,,,0,0,0,1,0,3,0,Unknown,,
 RBU41274,Sint-Truiden,3800,295000,House,House,Sale,3,161,0,0,0,0,1,,0,Excellent,,
 RBU41271,Tessenderlo,3980,348000,House,House,Sale,3,,0,0,0,1,1,,0,Unknown,,24.0
 RBU41268,Sint-Truiden,3800,183000,Appartment,Flat,Sale,2,83,0,0,0,1,0,,0,Unknown,,
@@ -4965,14 +4772,6 @@ RBU38686,Hamont-Achel,3930,469700,House,House,Sale,4,175,0,0,0,1,1,4,0,Normal,,
 RBU38669,Genk,3600,598000,House,House,Sale,6,310,0,0,0,0,1,,0,Unknown,,
 RBU38651,Hasselt,3500,419000,House,House,Sale,6,235,0,0,0,1,1,4,0,Normal,,
 RBU38570,Opoeteren,3680,259500,House,House,Sale,4,,0,0,0,0,1,4,0,Unknown,,
-RBU38568,Oudsbergen,3670,275000,House,House,Sale,3,144,0,0,0,1,1,4,0,Unknown,,
-RBU38559,Beverst,3740,238000,Appartment,Duplex,Sale,3,136,0,0,0,0,0,,0,Unknown,,
-RBU38423,Wellen,3830,110000,House,House,Sale,2,62,0,0,0,1,1,3,0,Unknown,,
-RBT78181,Lummen,3560,270000,House,House,Sale,3,220,0,0,0,1,1,4,0,To be renovated,,
-RBU38175,Tessenderlo,3980,525000,House,House,Sale,3,227,0,0,0,0,1,2,1,Unknown,,
-RBU38172,Beverlo,3581,419000,House,House,Sale,5,218,0,0,0,0,1,2,0,Unknown,,
-RBU38001,Ophoven,3640,995000,House,House,Sale,5,,0,0,0,1,1,4,1,Normal,,
-RBU37871,Lommel,3920,175000,Appartment,Flat,Sale,2,61,0,0,0,0,0,,0,Fully renovated,,
 RBU38568,Oudsbergen,3670,275000,House,House,Sale,3,144,0,0,0,1,1,4,0,Unknown,,
 RBU38559,Beverst,3740,238000,Appartment,Duplex,Sale,3,136,0,0,0,0,0,,0,Unknown,,
 RBU38423,Wellen,3830,110000,House,House,Sale,2,62,0,0,0,1,1,3,0,Unknown,,
@@ -5046,11 +4845,6 @@ RBU34319,Borgloon,3840,427500,House,House,Sale,3,235,0,0,0,1,1,2,0,Normal,145.0,
 RBU34318,Borgloon,3840,414974,House,House,Sale,3,184,0,0,0,1,1,2,0,Normal,180.0,36.0
 RBU34317,Borgloon,3840,367728,House,House,Sale,3,155,0,0,0,1,1,2,0,Normal,74.0,28.0
 RBU34316,Borgloon,3840,360888,House,House,Sale,3,152,0,0,0,1,1,2,0,Normal,65.0,27.0
-RBU34320,Borgloon,3840,371448,House,House,Sale,2,130,0,0,0,1,1,2,0,Normal,67.0,22.0
-RBU34319,Borgloon,3840,427500,House,House,Sale,3,235,0,0,0,1,1,2,0,Normal,145.0,31.0
-RBU34318,Borgloon,3840,414974,House,House,Sale,3,184,0,0,0,1,1,2,0,Normal,180.0,36.0
-RBU34317,Borgloon,3840,367728,House,House,Sale,3,155,0,0,0,1,1,2,0,Normal,74.0,28.0
-RBU34316,Borgloon,3840,360888,House,House,Sale,3,152,0,0,0,1,1,2,0,Normal,65.0,27.0
 RBU34315,Borgloon,3840,399400,House,House,Sale,3,166,0,0,0,1,1,2,0,Normal,60.0,22.0
 RBU34234,Ham,3945,395000,House,House,Sale,3,126,0,0,0,0,1,4,0,Excellent,,
 RBU34230,Sint-Truiden,3800,475000,House,MixedBuilding,Sale,4,393,0,0,0,0,0,,0,Unknown,,
@@ -5085,7 +4879,6 @@ VBD49610,Libramont,6800,189000,Appartment,Flat,Sale,3,80,1,0,0,0,1,4,0,Excellent
 VBD49590,Durbuy,6940,530000,House,House,Sale,3,191,0,1,0,1,1,,0,Unknown,,
 VBD49490,Nothomb,6717,275000,Appartment,Flat,Sale,1,72,0,0,0,1,1,,0,Unknown,12.0,36.0
 VBD49420,Houffalize,6660,130000,House,House,Sale,3,165,0,0,0,0,1,,0,To renovate,225.0,
-VBD49420,Houffalize,6660,130000,House,House,Sale,3,165,0,0,0,0,1,,0,To renovate,225.0,
 VBD49161,Vielsalm,6690,149000,House,House,Sale,2,115,0,0,0,1,1,4,0,To be renovated,560.0,10.0
 VBD49026,Virton,6760,750000,House,House,Sale,5,265,0,1,0,1,1,4,1,Unknown,,50.0
 VBD48877,Haut-Fays,6929,195000,House,House,Sale,5,180,0,0,0,1,1,3,0,To be renovated,720.0,17.0
@@ -5112,13 +4905,6 @@ VBD47814,Arlon,6700,450000,House,House,Sale,4,176,0,1,0,0,1,2,0,Fully renovated,
 VBD47808,Aubange,6790,245000,Appartment,Flat,Sale,2,78,0,0,0,0,0,4,0,Normal,,
 VWD15531,Arlon,6700,549000,House,Villa,Sale,5,216,0,0,0,1,1,4,0,Fully renovated,1200.0,30.0
 VBD47662,Arlon,6700,399000,Appartment,Flat,Sale,2,92,1,0,0,1,0,3,0,Excellent,,8.0
-VBD47654,Marche-en-Famenne,6900,550000,House,House,Sale,5,375,1,0,0,1,1,4,0,Normal,,
-VBD47512,Vielsalm,6690,280000,House,House,Sale,7,672,0,0,0,1,0,,0,To be renovated,,
-VBD47492,Ambly,6953,230000,House,House,Sale,3,180,0,0,0,1,1,4,0,To be renovated,,
-VBD47491,Libin,6890,159000,House,House,Sale,2,70,1,0,0,1,0,2,0,Normal,,30.0
-VBD47473,Libramont-Chevigny,6800,495000,House,Villa,Sale,5,,0,0,0,1,1,4,0,Normal,,
-VBD47429,Durbuy,6940,415000,House,House,Sale,4,240,1,0,0,1,1,3,0,Normal,,
-VBD47415,Florenville,6820,200000,House,House,Sale,5,,0,0,0,0,1,4,0,To be renovated,,
 VBD47654,Marche-en-Famenne,6900,550000,House,House,Sale,5,375,1,0,0,1,1,4,0,Normal,,
 VBD47512,Vielsalm,6690,280000,House,House,Sale,7,672,0,0,0,1,0,,0,To be renovated,,
 VBD47492,Ambly,6953,230000,House,House,Sale,3,180,0,0,0,1,1,4,0,To be renovated,,
@@ -5261,11 +5047,6 @@ VBD44147,Durbuy,6941,295000,House,House,Sale,4,120,1,0,0,1,1,4,0,To renovate,,
 VWD15390,Florenville,6820,8600002,House,House,Sale,4,200,1,0,0,1,1,4,0,Excellent,,
 VBD43930,Arlon,6700,235000,Appartment,Flat,Sale,2,100,0,0,0,0,1,,0,To be renovated,,
 VBD43906,Libramont-Chevigny,6800,219000,House,House,Sale,4,150,1,0,0,1,0,3,0,To be renovated,,15.0
-VBD43515,Saint-Mard,6762,180000,House,House,Sale,3,112,0,0,0,0,0,2,0,To be renovated,,
-VBD43347,Habergy,6782,379000,House,House,Sale,3,147,0,0,0,0,1,2,0,New,,
-VBD43338,Libramont-Chevigny,6800,285000,House,House,Sale,4,160,0,0,0,1,0,3,0,Normal,,
-VBD43155,Bastogne,6600,349000,Appartment,Flat,Sale,2,90,0,0,0,1,1,,0,Normal,150.0,40.0
-VBD43063,Virton,6760,198000,House,House,Sale,4,140,0,0,0,1,1,3,0,To be renovated,80.0,50.0
 VBD43515,Saint-Mard,6762,180000,House,House,Sale,3,112,0,0,0,0,0,2,0,To be renovated,,
 VBD43347,Habergy,6782,379000,House,House,Sale,3,147,0,0,0,0,1,2,0,New,,
 VBD43338,Libramont-Chevigny,6800,285000,House,House,Sale,4,160,0,0,0,1,0,3,0,Normal,,
@@ -5882,7 +5663,6 @@ VBD49522,Ligny,5140,240000,Appartment,Flat,Sale,2,75,0,0,0,0,1,2,0,Normal,,
 VBD49512,Namur,5000,600000,House,House,Sale,6,507,0,0,0,1,1,4,0,To renovate,5000.0,50.0
 VBD49436,Dinant,5500,389000,House,Villa,Sale,5,205,0,0,0,1,1,,0,Normal,672.0,20.0
 VBD49417,Jemelle,5580,99000,House,House,Sale,2,100,1,0,0,1,0,2,0,To renovate,,
-VBD49304,Profondeville,5170,479000,House,House,Sale,3,206,0,0,0,1,1,4,0,Unknown,210.0,100.0
 VBD49197,Ciney,5590,375000,House,House,Sale,4,170,0,0,0,1,1,4,0,Unknown,1260.0,
 VBD49176,Temploux,5020,849000,House,House,Sale,7,369,0,0,0,1,0,4,1,Normal,,
 VBD49172,Tamines,5060,90000,House,House,Sale,2,141,0,0,0,0,1,3,0,Unknown,,
@@ -5995,89 +5775,6 @@ VBD45913,Dinant,5500,175000,House,House,Sale,1,57,1,0,0,1,1,4,0,Fully renovated,
 VBD45832,Assesse,5330,275000,House,House,Sale,3,138,0,0,0,1,1,4,0,To renovate,,
 VBD45781,Tarcienne,5651,225000,House,House,Sale,6,,0,0,0,1,1,2,0,Normal,,
 VBD45772,Hulsonniaux,5560,319000,House,House,Sale,5,182,1,0,0,0,1,3,0,New,,
-VBD45767,Dinant,5500,135000,House,House,Sale,4,123,0,0,0,0,0,2,0,To renovate,,
-VBD45766,Dinant,5500,235000,Appartment,Flat,Sale,2,105,1,0,0,1,0,2,0,Normal,,
-VBD45765,Dinant,5500,298000,House,MixedBuilding,Sale,2,124,1,0,0,1,1,3,0,Normal,,
-VBD45661,Malonne,5020,395000,House,House,Sale,4,280,1,0,0,1,1,4,0,Unknown,,42.0
-VBD45646,Wépion,5100,265000,House,House,Sale,4,350,0,0,0,0,1,3,0,Unknown,,
-VBD45644,Havelange,5370,40000,House,House,Sale,4,248,0,0,0,1,1,4,0,Unknown,,
-VWD15472,Gedinne,5575,300000,House,Villa,Sale,3,190,1,0,0,1,1,4,0,Normal,,
-VWD15471,Sugny,5550,270000,House,House,Sale,4,240,1,0,0,0,1,4,0,Fully renovated,,
-VBD45594,Malonne,5020,399000,House,House,Sale,4,203,0,0,0,1,1,2,0,Excellent,,30.0
-VBD45588,Andenne,5300,449000,House,Villa,Sale,4,,0,0,0,0,1,4,0,Excellent,,
-VBD45571,Cerfontaine,5630,145000,House,House,Sale,3,108,0,0,1,0,0,,0,Fully renovated,,
-VBD45569,Gimnée,5680,450000,House,House,Sale,2,150,0,0,0,1,1,,0,Excellent,,
-VBD45567,Aublain,5660,374500,House,House,Sale,4,143,0,0,0,0,0,,0,Unknown,,
-VBD45566,Beauraing,5570,160000,House,House,Sale,3,90,0,0,0,0,0,,0,Excellent,,
-VBD45541,Chevetogne,5590,325000,House,House,Sale,4,160,0,0,0,1,1,3,0,Unknown,2343.0,
-VBD45448,Ciergnon,5560,315000,House,Villa,Sale,4,171,0,0,0,1,1,,0,New,200.0,18.0
-VBD45442,Erpent,5101,330000,Appartment,Flat,Sale,3,95,0,0,0,1,0,,0,Excellent,,17.0
-VBD45403,Ciney,5590,339000,House,House,Sale,4,187,0,0,1,1,1,,0,To be renovated,2098.0,45.0
-VBD45339,Oignies-En-Thiérache,5670,160000,House,House,Sale,4,120,0,0,0,1,1,4,0,Unknown,2600.0,15.0
-VBD45320,Han-sur-Lesse,5580,299000,House,House,Sale,4,140,0,0,0,0,1,4,0,Unknown,,
-VBD45252,Gedinne,5575,80000,House,House,Sale,2,,0,0,0,0,1,3,0,To be renovated,,
-VBD45230,Onhaye,5520,179000,Appartment,Flat,Sale,2,93,1,0,0,1,0,,0,Unknown,,12.0
-VBD37139,Couvin,5660,132500,House,House,Sale,3,,0,0,0,0,1,,0,Unknown,,
-VBD34997,Le Mesnil,5670,120000,House,House,Sale,3,130,0,0,0,0,1,3,0,To be renovated,90.0,
-VBD41635,Dave,5100,320000,House,House,Sale,3,119,0,0,0,1,1,3,0,To renovate,,
-VBD16273,Jambes,5100,295000,Appartment,Flat,Sale,2,126,0,0,0,1,1,4,0,Unknown,114.0,33.0
-VBD16272,Jambes,5100,375000,Appartment,Flat,Sale,4,267,0,0,0,1,1,4,0,Unknown,,33.0
-VBD16271,Jambes,5100,430000,Appartment,Flat,Sale,4,267,0,0,0,1,1,4,0,Unknown,,33.0
-VWD14838,Namur,5000,440000,Appartment,Flat,Sale,3,120,0,0,0,1,0,3,0,Excellent,,
-VWD15077,Namur,5000,209000,Appartment,Flat,Sale,3,89,0,0,0,0,0,3,0,Unknown,,
-VBD45061,Assesse,5330,380000,House,House,Sale,4,180,0,0,0,1,1,2,0,Normal,480.0,15.0
-VBD44892,Namur,5000,115000,Appartment,Flat,Sale,1,40,0,0,0,0,0,,0,Normal,,
-VBD25272,Fraire,5650,195000,House,House,Sale,5,160,0,0,0,0,1,,0,Unknown,,
-VBD44829,Laneffe,5651,247000,House,Villa,Sale,3,112,0,0,0,1,1,4,0,Normal,565.0,
-VBD44828,Senzeille,5630,497000,House,MixedBuilding,Sale,8,314,0,0,0,1,0,4,0,Normal,,28.0
-VBD44808,Dinant,5500,119000,House,House,Sale,4,86,1,0,0,0,0,3,0,Normal,,
-VBD44807,Ciney,5590,100000,House,MixedBuilding,Sale,,,0,0,0,1,1,2,0,Unknown,,
-VWD15432,Gedinne,5575,990000,House,Villa,Sale,5,350,1,0,1,1,1,4,1,Excellent,,
-VBD12261,Arsimont,5060,150000,House,MixedBuilding,Sale,,,0,0,0,0,0,4,0,To be renovated,,
-VBD05656,Onhaye,5520,595000,House,Villa,Sale,5,290,0,0,0,1,1,,0,Normal,3090.0,34.0
-VBD44722,Andenne,5300,469000,House,House,Sale,4,184,0,0,0,1,1,4,0,Excellent,,
-VBD20265,Sorinnes,5503,95000,House,Chalet,Sale,1,49,1,0,0,1,1,4,0,Unknown,,
-VBD44665,Assesse,5330,389000,Appartment,Flat,Sale,3,143,0,0,0,1,0,3,0,Unknown,,26.0
-VBD04806,Le Roux,5070,349000,House,Villa,Sale,5,229,1,0,0,1,1,4,0,To be renovated,2397.0,45.0
-VBD16234,Sovet,5590,449000,House,House,Sale,7,265,0,0,0,1,1,,0,Normal,2173.0,53.0
-VBD45301,Branchon,5310,275000,House,House,Sale,3,156,1,0,0,1,1,3,0,Normal,1200.0,14.0
-VBD45095,Namur,5000,225000,House,Cottage,Sale,3,127,1,0,0,1,1,3,0,To be renovated,,
-VBD45094,Courrière,5336,225000,House,Cottage,Sale,3,127,1,0,0,1,1,3,0,To be renovated,,
-VBD44626,Namur,5000,135000,Appartment,FlatStudio,Sale,0,24,1,1,0,0,0,2,0,Excellent,,
-VBD44535,Andenne,5300,195000,House,MixedBuilding,Sale,6,214,0,0,0,1,0,3,0,To be renovated,,13.0
-VBD43808,Andenne,5300,319000,Appartment,Duplex,Sale,3,171,1,0,0,1,0,,0,Normal,,25.0
-VBD43575,Sambreville,5060,159000,Appartment,Flat,Sale,2,70,1,0,0,1,0,4,0,Normal,,
-VBD20656,Floreffe,5150,310000,House,House,Sale,5,216,0,0,0,1,1,3,0,To be renovated,,73.0
-VBD30279,Namur,5000,65000,Appartment,FlatStudio,Sale,,,0,0,0,0,0,,0,To be renovated,,
-VBD30277,Namur,5000,110000,Appartment,Flat,Sale,1,,0,0,0,0,0,,0,To be renovated,,
-VBD43281,Mettet,5640,479000,House,Villa,Sale,5,347,0,0,0,1,1,4,0,Normal,,
-VBD42393,Ciney,5590,395000,House,House,Sale,6,274,0,0,0,1,1,2,0,To be renovated,272.0,29.0
-VBD42392,Andenne,5300,160000,House,House,Sale,3,140,0,0,0,1,1,2,0,To be renovated,107.0,6.0
-VBD42380,Tamines,5060,159000,Appartment,Flat,Sale,1,63,1,1,0,0,0,2,0,Excellent,,
-VBD42175,Ligny,5140,299000,House,House,Sale,4,155,1,0,0,1,1,4,0,Normal,,
-VBD42163,Andenne,5300,215000,House,House,Sale,3,130,0,0,0,1,1,3,0,Unknown,,
-VBD41622,Auvelais,5060,789000,House,MixedBuilding,Sale,3,545,1,0,0,1,1,3,0,Normal,700.0,50.0
-VWD15321,Villers-le-Gambon,5600,240000,House,House,Sale,3,165,1,0,0,1,1,3,1,Unknown,,
-VBD41315,Mettet,5640,349000,House,House,Sale,4,292,1,0,0,1,1,4,1,Normal,,
-VBD40577,Sambreville,5060,135000,House,House,Sale,2,80,1,0,0,1,1,2,0,To be renovated,140.0,15.0
-VBD40302,Beauraing,5570,369000,House,House,Sale,3,191,1,0,1,1,1,4,0,To be renovated,5324.0,43.0
-VBD39927,Seilles,5300,310000,Appartment,Penthouse,Sale,2,100,0,0,0,1,0,4,0,New,,20.0
-VBD39926,Seilles,5300,295000,Appartment,Penthouse,Sale,2,86,0,0,0,1,1,4,0,New,,20.0
-VBD38824,Seilles,5300,155000,Appartment,Flat,Sale,1,65,0,0,0,0,0,4,0,Unknown,,
-VBD38804,Morialmé,5621,279000,House,House,Sale,2,134,0,0,0,1,1,4,0,Normal,,
-VBD20744,Godinne,5530,310000,House,Villa,Sale,4,156,0,0,0,1,1,4,0,To be renovated,,
-VBD37590,Heer,5543,249000,House,House,Sale,5,360,0,0,0,0,0,4,0,Normal,,
-VBD37540,Dinant,5500,159000,House,House,Sale,2,,0,0,0,0,0,2,0,To be renovated,,
-VBD37221,Couvin,5660,140000,House,House,Sale,4,,0,0,0,0,1,,0,Unknown,,
-VBD36517,Bioul,5537,390000,House,House,Sale,4,225,1,0,0,1,1,4,0,To renovate,1600.0,16.0
-VBD36173,Mettet,5640,315000,House,House,Sale,5,241,0,0,0,1,1,4,0,Normal,,
-VBD36120,Jemeppe-Sur-Sambre,5190,149000,Appartment,Flat,Sale,2,97,1,0,0,0,0,2,0,Normal,,
-VBD35924,Namur,5000,250000,House,House,Sale,3,135,1,0,0,1,1,3,0,Normal,100.0,10.0
-VBD35548,Andenne,5300,295000,House,House,Sale,3,125,0,0,0,1,1,4,0,To be renovated,,16.0
-VBD35314,Biesme,5640,149000,House,House,Sale,4,287,0,0,0,0,1,3,0,To be renovated,,
-VBD35313,Somzée,5651,219000,House,House,Sale,3,153,0,0,0,1,1,4,0,Normal,,
-VBD35140,Gembloux,5030,325000,House,House,Sale,4,125,0,0,0,1,1,,0,Unknown,,
-VBD35100,Anhée,5537,129000,House,House,Sale,4,195,0,0,0,1,0,3,0,To be renovated,,15.0
 VBD45767,Dinant,5500,135000,House,House,Sale,4,123,0,0,0,0,0,2,0,To renovate,,
 VBD45766,Dinant,5500,235000,Appartment,Flat,Sale,2,105,1,0,0,1,0,2,0,Normal,,
 VBD45765,Dinant,5500,298000,House,MixedBuilding,Sale,2,124,1,0,0,1,1,3,0,Normal,,
@@ -6717,15 +6414,6 @@ VBD49333,Ukkel,1180,599000,Appartment,Flat,Sale,2,113,1,0,0,1,1,2,0,New,,8.0
 VBD49332,Ukkel,1180,899000,Appartment,Penthouse,Sale,2,140,1,0,0,1,1,3,0,New,,30.0
 VBD49330,Anderlecht,1070,299000,Appartment,Flat,Sale,3,95,1,0,0,1,0,2,0,Fully renovated,,21.0
 VBD49327,Schaarbeek,1030,369000,Appartment,Duplex,Sale,1,98,0,0,0,1,0,2,0,Normal,,
-VBD49314,Sint-Lambrechts-Woluwe,1200,500000,House,House,Sale,3,122,0,0,0,1,0,,0,Unknown,,
-VBD49287,Sint-Jans-Molenbeek,1080,345000,Appartment,Flat,Sale,3,170,0,0,0,0,1,,0,Unknown,,
-VBD49278,Brussels,1000,399000,Appartment,GroundFloor,Sale,3,129,1,0,0,0,0,2,0,New,,
-VBD49277,Brussels,1000,410000,Appartment,Flat,Sale,3,126,1,0,0,0,0,2,0,New,,
-VBD49276,Brussels,1000,399000,Appartment,Flat,Sale,3,126,1,0,0,0,0,2,0,New,,
-VBD49275,Brussels,1000,499000,Appartment,Flat,Sale,4,161,1,0,0,0,0,2,0,New,,
-VBD49274,Brussels,1000,399000,Appartment,Flat,Sale,3,125,1,0,0,0,0,2,0,New,,
-VBD49270,Schaarbeek,1030,520000,House,House,Sale,2,135,1,0,0,1,1,2,0,New,25.0,25.0
-VBD49269,Schaarbeek,1030,349000,Appartment,Flat,Sale,2,78,1,0,0,1,1,2,0,New,,7.0
 VBD49265,Elsene,1050,1500000,House,House,Sale,4,337,0,0,0,1,1,2,0,Unknown,209.0,
 VBD49250,Schaarbeek,1030,249000,Appartment,Flat,Sale,1,78,1,0,0,0,0,2,0,Normal,,
 VBD49243,Brussels,1000,269000,Appartment,GroundFloor,Sale,1,81,1,0,0,1,0,2,0,Fully renovated,,11.0
@@ -6735,95 +6423,6 @@ VBD49235,Brussels,1000,380000,Appartment,Flat,Sale,2,87,1,0,0,1,0,,0,Normal,,8.0
 VBD49228,Elsene,1050,220000,Appartment,GroundFloor,Sale,1,,0,0,0,1,1,2,0,To be renovated,20.0,
 VBD49223,Ukkel,1180,290000,Appartment,GroundFloor,Sale,1,72,0,0,0,1,0,,0,To renovate,,7.0
 VBD49222,Sint-Jans-Molenbeek,1080,229000,Appartment,Flat,Sale,2,87,1,0,0,1,0,2,0,Normal,,
-VBD49206,Sint-Lambrechts-Woluwe,1200,295000,Appartment,Flat,Sale,2,90,0,0,0,1,1,,0,Normal,,
-VBD49188,Ukkel,1180,500000,Appartment,Flat,Sale,2,150,1,0,1,1,0,3,0,Excellent,,7.0
-VBD49183,Schaarbeek,1030,490000,House,MasterHouse,Sale,5,325,0,0,0,1,1,2,0,Normal,285.0,
-VBD49181,Schaarbeek,1030,235000,Appartment,Flat,Sale,2,84,1,0,0,1,0,,0,Normal,,15.0
-VBD49180,Sint-Lambrechts-Woluwe,1200,340000,Appartment,Flat,Sale,2,84,1,0,0,1,1,4,1,To renovate,,
-VBD49178,Sint-Pieters-Woluwe,1150,1290000,House,House,Sale,5,335,1,0,0,1,1,3,0,Excellent,500.0,20.0
-VBD49177,Ukkel,1180,850000,Appartment,Flat,Sale,2,127,1,0,0,1,1,2,0,Excellent,,30.0
-VBD49156,Sint-Gillis,1060,219000,Appartment,Flat,Sale,1,52,1,0,0,1,0,3,0,To be renovated,,
-VBD49155,Sint-Gillis,1060,319000,Appartment,Flat,Sale,4,113,1,0,0,1,0,3,0,To be renovated,,
-VBD49154,Ukkel,1180,790000,Appartment,Flat,Sale,2,126,1,0,0,1,1,2,0,Excellent,,26.0
-VBD49153,Ukkel,1180,850000,Appartment,Flat,Sale,2,127,1,0,0,1,1,2,0,Excellent,,30.0
-VBD49127,Brussels,1000,160000,Appartment,Flat,Sale,,29,0,1,0,0,0,,0,Excellent,,
-VBD49126,Koekelberg,1081,299000,Appartment,Flat,Sale,2,107,0,0,0,1,0,2,0,To be renovated,,
-VBD49125,Ganshoren,1083,299000,Appartment,Flat,Sale,3,110,0,0,0,1,0,2,0,Unknown,,
-VBD49124,Schaarbeek,1030,250000,Appartment,Flat,Sale,1,96,0,0,0,1,0,2,0,To be renovated,,8.0
-VBD49113,Jette,1090,238000,Appartment,Flat,Sale,2,80,0,0,0,1,0,,0,Fully renovated,,16.0
-VBD49112,Anderlecht,1070,175000,Appartment,Flat,Sale,1,65,0,0,0,1,0,,0,To be renovated,,23.0
-VBD49111,Sint-Jans-Molenbeek,1080,325000,Appartment,GroundFloor,Sale,4,130,0,0,0,1,1,,0,Normal,40.0,
-VBD49110,Sint-Jans-Molenbeek,1080,255000,Appartment,Flat,Sale,2,90,0,0,0,1,0,,0,Normal,,8.0
-VBD49098,Brussels,1000,645000,House,MixedBuilding,Sale,5,220,1,0,0,1,1,2,0,Normal,,25.0
-VBD49079,Schaarbeek,1030,1950000,House,MasterHouse,Sale,6,730,1,0,0,1,1,2,0,Excellent,,
-VBD49072,Ganshoren,1083,249000,Appartment,Flat,Sale,2,87,0,0,0,1,0,2,0,To be renovated,,
-VBD49071,Ganshoren,1083,445000,House,House,Sale,5,233,0,0,0,1,1,2,0,To renovate,35.0,
-VBD49069,Oudergem,1160,475000,Appartment,Flat,Sale,2,91,1,0,0,1,1,3,0,New,,10.0
-VBD49064,Sint-Gillis,1060,315000,Appartment,Flat,Sale,2,83,1,0,0,1,0,2,0,Excellent,,4.0
-VBD49062,Elsene,1050,870000,House,MixedBuilding,Sale,4,280,1,0,0,1,1,2,0,To be renovated,75.0,12.0
-VBD49061,Elsene,1050,870000,House,House,Sale,4,280,1,0,0,1,1,2,0,To be renovated,75.0,12.0
-VBD49060,Elsene,1050,955000,Appartment,Flat,Sale,3,135,1,0,0,1,1,2,0,Excellent,115.0,35.0
-VBD49059,Brussels,1000,249000,Appartment,Duplex,Sale,2,100,1,0,0,1,0,2,0,Normal,,3.0
-VBD49058,Sint-Jans-Molenbeek,1080,249000,Appartment,Duplex,Sale,2,100,1,0,0,1,0,2,0,Normal,,3.0
-VBD49053,Sint-Lambrechts-Woluwe,1200,135000,Appartment,FlatStudio,Sale,,26,1,1,0,0,0,,0,To renovate,,
-VBD49052,Sint-Lambrechts-Woluwe,1200,420000,Appartment,Flat,Sale,2,125,1,0,0,1,0,2,0,Normal,,7.0
-VBD49047,Brussels,1000,450000,Appartment,Flat,Sale,2,140,1,0,0,1,0,2,0,Normal,,7.0
-VBD49046,Anderlecht,1070,359000,House,House,Sale,3,152,1,0,0,1,1,2,0,Normal,25.0,
-VBD49045,Anderlecht,1070,359000,House,MixedBuilding,Sale,3,152,1,0,0,1,1,2,0,Normal,25.0,
-VBD49043,Ukkel,1180,410000,Appartment,Flat,Sale,4,147,1,0,0,1,0,4,0,Normal,,10.0
-VBD49040,Elsene,1050,300000,Appartment,GroundFloor,Sale,1,60,1,0,0,1,1,,0,Excellent,50.0,15.0
-VBD49038,Anderlecht,1070,215000,Appartment,Flat,Sale,1,70,0,0,0,1,1,,0,Unknown,,7.0
-VBD49030,Sint-Lambrechts-Woluwe,1200,899000,Appartment,Duplex,Sale,4,227,1,0,0,1,0,3,0,Normal,,20.0
-VBD49024,Laken,1020,210000,Appartment,Flat,Sale,1,74,1,0,0,1,0,2,0,Normal,,4.0
-VBD49023,Vorst,1190,260000,Appartment,Flat,Sale,2,89,1,0,0,0,0,2,0,Normal,,
-VBD49004,Haren,1130,620000,House,House,Sale,4,185,0,0,0,1,1,2,0,To be renovated,50.0,
-VBD48994,Berchem-Sainte-Agathe,1082,320000,Appartment,Flat,Sale,2,90,1,0,0,1,0,2,0,New,,36.0
-VBD48992,Anderlecht,1070,520000,House,House,Sale,4,300,1,0,0,1,1,2,0,Normal,,
-VBD48991,Laken,1020,560000,Appartment,Flat,Sale,6,600,0,0,0,0,0,2,0,To be renovated,,
-VBD48989,Sint-Jans-Molenbeek,1080,290000,Appartment,Flat,Sale,3,120,1,0,0,1,0,2,0,To renovate,,27.0
-VBD48988,Sint-Jans-Molenbeek,1080,245000,Appartment,Flat,Sale,2,100,1,0,0,1,0,2,0,To renovate,,17.0
-VBD48987,Sint-Jans-Molenbeek,1080,245000,Appartment,Flat,Sale,2,100,1,0,0,1,0,2,0,To renovate,,17.0
-VBD48986,Laken,1020,775000,House,House,Sale,4,270,1,0,0,1,1,3,0,New,,7.0
-VBD48985,Neder-Over-Heembeek,1120,770000,House,House,Sale,4,270,1,0,0,1,1,3,0,New,,7.0
-VBD48984,Neder-Over-Heembeek,1120,785000,House,House,Sale,3,308,1,0,0,1,1,3,0,New,,7.0
-VBD48983,Anderlecht,1070,429000,House,House,Sale,5,200,1,0,0,1,1,2,0,Normal,27.0,
-VBD48982,Sint-Jans-Molenbeek,1080,269000,Appartment,Flat,Sale,2,95,1,0,0,1,0,2,0,Normal,,7.0
-VBD48981,Anderlecht,1070,299000,Appartment,Flat,Sale,2,91,0,0,0,1,0,2,0,Excellent,,5.0
-VBD48979,Neder-Over-Heembeek,1120,215000,Appartment,GroundFloor,Sale,1,74,1,0,0,0,0,3,0,Normal,,
-VBD48976,Anderlecht,1070,495000,Appartment,Penthouse,Sale,2,113,1,0,0,1,0,2,0,Excellent,,62.0
-VBD48974,Schaarbeek,1030,380000,Appartment,GroundFloor,Sale,3,117,1,0,0,1,1,,0,To renovate,80.0,
-VBD48973,Laken,1020,199000,Appartment,Flat,Sale,1,70,1,0,0,1,0,2,0,Excellent,,13.0
-VBD48972,Sint-Jans-Molenbeek,1080,125000,Appartment,FlatStudio,Sale,0,32,1,0,0,1,0,2,0,Normal,,3.0
-VBD48971,Laken,1020,265000,Appartment,Flat,Sale,3,102,1,0,0,1,0,2,0,Excellent,,25.0
-VBD48970,Anderlecht,1070,165000,Appartment,Flat,Sale,2,73,1,0,0,1,0,2,0,To renovate,,7.0
-VBD48969,Laken,1020,220000,Appartment,Flat,Sale,2,80,1,0,0,1,1,3,0,To renovate,85.0,2.0
-VBD48962,Koekelberg,1081,249000,Appartment,Flat,Sale,1,89,1,0,0,1,1,2,0,Excellent,,21.0
-VBD48939,Schaarbeek,1030,215000,Appartment,Flat,Sale,1,82,0,0,0,1,0,,0,Normal,,7.0
-VBD48930,Evere,1140,175000,Appartment,Flat,Sale,1,60,0,0,0,1,0,,0,Unknown,,2.0
-VBD48926,Etterbeek,1040,425000,Appartment,Flat,Sale,2,100,0,0,0,1,0,2,0,Unknown,,5.0
-VBD48921,Etterbeek,1040,299000,Appartment,Flat,Sale,2,70,0,0,0,0,0,,0,Normal,,
-VBD48916,Haren,1130,395000,Appartment,Flat,Sale,2,117,0,0,0,1,1,,0,Unknown,100.0,45.0
-VBD48915,Brussels,1000,450000,Appartment,Flat,Sale,2,142,0,0,0,0,0,,0,Unknown,,
-VBD48914,Evere,1140,243000,Appartment,Flat,Sale,2,80,0,0,0,0,0,,0,To be renovated,,
-VBD48911,Vorst,1190,1495000,House,House,Sale,5,440,1,0,0,1,1,2,0,Excellent,100.0,30.0
-VBD48906,Ukkel,1180,205000,Appartment,GroundFloor,Sale,,50,0,0,0,1,1,3,0,Unknown,110.0,20.0
-VBD48881,Haren,1130,490000,House,House,Sale,4,,0,0,0,1,1,,0,Normal,70.0,30.0
-VBD48867,Jette,1090,235000,Appartment,Flat,Sale,2,91,1,0,0,1,0,,0,Excellent,,
-VBD48845,Evere,1140,235000,Appartment,Flat,Sale,1,58,1,0,0,0,0,,0,Excellent,,
-VBD48837,Sint-Joost-ten-Node,1210,349000,House,MixedBuilding,Sale,4,225,0,0,0,1,0,2,0,Normal,,
-VBD48790,Sint-Pieters-Woluwe,1150,730000,House,House,Sale,4,257,0,0,0,1,1,2,0,To be renovated,90.0,12.0
-VBD48788,Etterbeek,1040,1225000,Appartment,Penthouse,Sale,2,220,1,0,0,1,0,3,0,Excellent,,8.0
-VBD48787,Brussels,1000,895000,House,House,Sale,6,238,1,0,0,1,1,2,0,Fully renovated,45.0,15.0
-VBD48786,Elsene,1050,895000,House,House,Sale,6,238,1,0,0,1,1,2,0,Fully renovated,45.0,15.0
-VBD48785,Brussels,1000,670000,Appartment,Duplex,Sale,3,162,1,0,0,1,0,2,0,Excellent,,6.0
-VBD48776,Etterbeek,1040,1050000,Appartment,Flat,Sale,3,300,1,0,0,1,0,2,0,Normal,,3.0
-VBD48775,Ukkel,1180,365000,Appartment,Flat,Sale,2,90,1,0,0,1,0,2,0,Fully renovated,,
-VBD48751,Anderlecht,1070,349900,House,House,Sale,3,104,0,0,0,1,0,2,0,Normal,,11.0
-VBD48737,Brussels,1000,265000,Appartment,Flat,Sale,1,50,1,0,0,1,0,2,0,Excellent,,2.0
-VBD48733,Schaarbeek,1030,595000,Appartment,Loft,Sale,1,440,1,0,1,1,1,4,1,To renovate,,220.0
-VBD48731,Oudergem,1160,655000,Appartment,Flat,Sale,3,127,1,0,0,1,0,3,0,New,,8.0
-VBD48730,Oudergem,1160,645000,Appartment,Flat,Sale,3,127,1,0,0,1,0,3,0,New,,19.0
-VBD48724,Elsene,1050,790000,Appartment,GroundFloor,Sale,2,131,1,0,0,1,1,2,0,New,20.0,22.0
 VBD49206,Sint-Lambrechts-Woluwe,1200,295000,Appartment,Flat,Sale,2,90,0,0,0,1,1,,0,Normal,,
 VBD49188,Ukkel,1180,500000,Appartment,Flat,Sale,2,150,1,0,1,1,0,3,0,Excellent,,7.0
 VBD49183,Schaarbeek,1030,490000,House,MasterHouse,Sale,5,325,0,0,0,1,1,2,0,Normal,285.0,
@@ -7086,25 +6685,6 @@ VBD47459,Sint-Pieters-Woluwe,1150,330000,Appartment,Flat,Sale,2,77,1,0,0,1,0,2,0
 VBD47454,Elsene,1050,395000,Appartment,Flat,Sale,2,80,1,0,0,0,0,3,0,Excellent,,
 VBD47435,Elsene,1050,1300000,Appartment,Flat,Sale,3,300,1,0,0,1,0,2,0,To renovate,,
 RBU62605,Vorst,1190,333900,Appartment,Flat,Sale,2,93,0,0,0,1,0,,0,Unknown,,19.0
-VBD47584,Berchem-Sainte-Agathe,1082,425000,Appartment,Penthouse,Sale,3,121,1,0,0,1,1,3,0,New,,13.0
-VBD47583,Sint-Jans-Molenbeek,1080,273000,Appartment,Flat,Sale,2,108,1,0,0,1,0,2,0,Excellent,,10.0
-VBD47577,Ukkel,1180,1995000,House,House,Sale,7,750,0,0,0,1,1,4,0,To be renovated,,
-VBD47520,Elsene,1050,645000,Appartment,Flat,Sale,3,157,1,0,0,1,0,2,0,Excellent,,3.0
-VBD47511,Ukkel,1180,495000,Appartment,Flat,Sale,2,140,0,0,0,1,0,,0,Fully renovated,,4.0
-VBD47510,Brussels,1000,650000,Appartment,Flat,Sale,3,255,0,0,0,1,0,,0,Normal,,
-VBD47509,Vorst,1190,220000,Appartment,Flat,Sale,2,94,0,0,0,1,0,2,0,To be renovated,,17.0
-RBU62682,Sint-Jans-Molenbeek,1080,429000,House,House,Sale,3,151,0,0,0,1,1,3,0,To be renovated,,
-RBU62666,Laken,1020,249000,Appartment,Flat,Sale,2,85,0,0,0,1,0,3,0,Normal,,3.0
-VBD47469,Sint-Gillis,1060,210000,Appartment,FlatStudio,Sale,,40,0,0,0,0,0,,0,Normal,,
-VBD47464,Sint-Lambrechts-Woluwe,1200,430000,Appartment,Penthouse,Sale,2,115,1,0,0,1,0,2,0,Normal,,14.0
-VBD47463,Brussels,1000,305000,Appartment,FlatStudio,Sale,0,50,1,1,0,0,0,,0,Excellent,,
-VBD47462,Etterbeek,1040,498500,Appartment,Flat,Sale,1,79,1,0,0,1,0,2,0,New,,4.0
-VBD47461,Etterbeek,1040,495000,Appartment,Flat,Sale,2,88,1,1,0,1,0,2,0,Excellent,,12.0
-VBD47460,Watermaal-Bosvoorde,1170,450000,Appartment,Flat,Sale,2,90,1,0,0,1,0,2,0,Excellent,,12.0
-VBD47459,Sint-Pieters-Woluwe,1150,330000,Appartment,Flat,Sale,2,77,1,0,0,1,0,2,0,Normal,,12.0
-VBD47454,Elsene,1050,395000,Appartment,Flat,Sale,2,80,1,0,0,0,0,3,0,Excellent,,
-VBD47435,Elsene,1050,1300000,Appartment,Flat,Sale,3,300,1,0,0,1,0,2,0,To renovate,,
-RBU62605,Vorst,1190,333900,Appartment,Flat,Sale,2,93,0,0,0,1,0,,0,Unknown,,19.0
 VBD47412,Watermaal-Bosvoorde,1170,225000,House,MixedBuilding,Sale,,70,0,0,0,0,1,,1,Normal,,
 VBD47411,Oudergem,1160,750000,Appartment,Flat,Sale,3,210,1,0,0,1,1,,0,Excellent,11.0,9.0
 VBD47400,Sint-Lambrechts-Woluwe,1200,475000,Appartment,Flat,Sale,2,113,1,0,0,1,0,3,0,Excellent,,33.0
@@ -7231,18 +6811,6 @@ VBD46630,Elsene,1050,665000,Appartment,Flat,Sale,2,136,0,0,0,0,0,2,0,Normal,,
 VBD46629,Elsene,1050,665000,House,House,Sale,2,136,0,0,0,0,0,2,0,Normal,,
 VBD46624,Elsene,1050,750000,House,House,Sale,4,170,1,0,0,1,1,2,0,To renovate,45.0,20.0
 VBD46623,Anderlecht,1070,349000,Appartment,Flat,Sale,2,113,1,0,0,0,0,2,0,Normal,,
-VBD46720,Laken,1020,1750000,House,MixedBuilding,Sale,23,720,1,0,0,1,0,2,0,To renovate,,30.0
-VBD46708,Ukkel,1180,279000,Appartment,Duplex,Sale,2,96,0,0,0,1,0,2,0,To be renovated,,9.0
-VBD46684,Elsene,1050,339000,Appartment,Flat,Sale,2,85,0,0,0,0,0,2,0,Excellent,,
-VBD46672,Brussels,1000,1187000,House,MasterHouse,Sale,3,250,0,0,0,1,1,2,0,Normal,8.0,
-VBD46671,Schaarbeek,1030,285000,Appartment,Flat,Sale,2,90,0,0,0,1,0,2,0,Unknown,,3.0
-VBD46663,Ukkel,1180,110000,Appartment,Flat,Sale,1,26,0,1,0,0,1,2,0,Excellent,,
-VBD46653,Oudergem,1160,387000,Appartment,Flat,Sale,2,93,1,0,0,1,0,2,0,Normal,,24.0
-VBD46634,Sint-Jans-Molenbeek,1080,249000,Appartment,Flat,Sale,2,104,1,0,0,1,0,2,0,Normal,,3.0
-VBD46630,Elsene,1050,665000,Appartment,Flat,Sale,2,136,0,0,0,0,0,2,0,Normal,,
-VBD46629,Elsene,1050,665000,House,House,Sale,2,136,0,0,0,0,0,2,0,Normal,,
-VBD46624,Elsene,1050,750000,House,House,Sale,4,170,1,0,0,1,1,2,0,To renovate,45.0,20.0
-VBD46623,Anderlecht,1070,349000,Appartment,Flat,Sale,2,113,1,0,0,0,0,2,0,Normal,,
 RBU61401,Berchem-Sainte-Agathe,1082,575000,Appartment,Flat,Sale,3,195,0,0,0,1,0,,0,Normal,,40.0
 VBD46567,Sint-Lambrechts-Woluwe,1200,790000,House,MasterHouse,Sale,5,361,1,0,0,1,1,2,0,Normal,42.0,5.0
 VBD46566,Sint-Lambrechts-Woluwe,1200,790000,House,MixedBuilding,Sale,5,361,1,0,0,1,1,2,0,Normal,42.0,5.0
@@ -7267,7 +6835,6 @@ VBD46455,Koekelberg,1081,199000,Appartment,Flat,Sale,2,69,1,0,0,1,0,2,0,Normal,,
 VBD46453,Brussels,1000,800000,Appartment,Flat,Sale,2,227,0,0,0,1,0,,0,Excellent,,35.0
 VBD46430,Vorst,1190,4850000,House,House,Sale,7,1300,1,0,0,1,1,4,1,Normal,3500.0,130.0
 VBD46422,Ukkel,1180,3050000,House,Villa,Sale,4,560,0,0,0,1,1,4,0,Excellent,350.0,20.0
-VBD46422,Ukkel,1180,3050000,House,Villa,Sale,4,560,0,0,0,1,1,4,0,Excellent,350.0,20.0
 VBD46406,Sint-Lambrechts-Woluwe,1200,329000,Appartment,Flat,Sale,2,85,0,0,0,1,0,3,0,To be renovated,,
 RBU61315,Oudergem,1160,645000,Appartment,Flat,Sale,3,92,0,0,0,1,1,2,0,New,,19.0
 RBU61314,Elsene,1050,565000,Appartment,Flat,Sale,2,106,0,0,0,1,0,2,0,New,,14.0
@@ -7281,5 +6848,4 @@ VBD46387,Anderlecht,1070,280000,Appartment,Flat,Sale,2,109,0,0,0,1,0,2,0,Normal,
 VBD46386,Schaarbeek,1030,300000,Appartment,Flat,Sale,2,81,0,0,0,1,0,,0,Normal,,3.0
 VBD46380,Ukkel,1180,1050000,Appartment,Flat,Sale,4,240,1,1,0,1,0,,1,Excellent,,20.0
 VBD46378,Sint-Gillis,1060,745000,House,House,Sale,6,235,1,1,0,1,1,2,0,Fully renovated,50.0,25.0
-VBD46355,Vorst,1190,540000,House,House,Sale,4,240,1,0,0,1,1,2,0,To be renovated,160.0,16.0
 VBD46355,Vorst,1190,540000,House,House,Sale,4,240,1,0,0,1,1,2,0,To be renovated,160.0,16.0
