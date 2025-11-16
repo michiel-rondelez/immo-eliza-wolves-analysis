@@ -133,10 +133,22 @@ class DataCleaner:
             return x_str if x_str else None
         self.df['Locality name'] = self.df['Locality name'].apply(helper).astype("string")
         return self.df
+
+    def calculate_price_per_m2_column(self) -> None:
+        """
+        Calculate the price per m2 of the living area
+        """
+        if "Price per m2" in self.df.columns:
+           print("Column 'Price per m2' already exists.")
+        else:
+           self.df["Price per m2"] = self.df["Price"] / self.df["Living area"]
+           print("Added column 'Price per m2'.")
+
     def save_to_csv(self, file_path):
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
         self.df.to_csv(file_path, index=False)
         return file_path
+    
     
 
     # Apply all cleaning steps
@@ -152,4 +164,5 @@ class DataCleaner:
         self.clean_open_fire()
         self.clean_swimming_pool()
         #self.clean_state_of_building_column()
+        # self.calculate_price_per_m2_column() TODO: run this to add column with price per m2
         return self.df
