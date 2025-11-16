@@ -17,30 +17,26 @@ Conduct exploratory analysis using visualizations and basic statistics.
 📁 Project Structure
 
 .
+
 ├── data/
 
-│   ├── raw/
-
-│   │   └── data.csv 
-          # Original dataset
-│   └── clean_data.csv 
-        # Cleaned dataset generated
+│   
+├── raw/
+│   
+│   
+└── data.csv           # Original dataset
+│   
+└── clean_data.csv         # Cleaned dataset generated
 │
-├── data_cleaning.py  
-         # Main cleaning script
-├── data_cleaner_class.py 
-     # Class containing cleaning functions
+├── data_cleaning.py           # Main cleaning script
+├── data_cleaner_class.py      # Class containing cleaning functions
 │
-├── visuals/  
-                 # Generated plots and visuals
-├── screenshots/ 
-              # Images used for documentation
+├── visuals/                   # Generated plots and visuals
+├── screenshots/               # Images used for documentation
 │
-├── visualizing.py
-             # Graphs and analysis
+├── visualizing.py             # Graphs and analysis
 │
-├── README.md 
-                 # This file
+├── README.md                  # This file
 └── .gitignore
 
 
