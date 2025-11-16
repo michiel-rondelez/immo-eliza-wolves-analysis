@@ -14,6 +14,8 @@ Normalize variables and standardize formats to analyze them without errors.
 
 Conduct exploratory analysis using visualizations and basic statistics.
 
+
+
 📁 Project Structure
 
 .
@@ -91,17 +93,20 @@ Install the required libraries
 
 🧩 Small example (extract from the script)
 
-# Fix HTML encoding in locality names
+## Fix HTML encoding in locality names
+
 properties_data['Locality name'] = properties_data['Locality name'].apply(html.unescape)
 
-# Remove properties without valid price
+## Remove properties without valid price
 properties_data['Price'].replace(r'^\s*$|^0.00$', np.nan, regex=True)
 properties_data.dropna(subset=['Price'], inplace=True)
 properties_data = properties_data[properties_data['Price'] != 0]
 
-# Remove unwanted sale types
+### Remove unwanted sale types
 discarded = ['Rent', 'PublicSale', 'Share']
 properties_data = properties_data[~properties_data['Type of sale'].isin(discarded)]
+
+
 
 
 📊 Exploratory Data Analysis
@@ -125,9 +130,11 @@ A general heatmap to identify the strongest relationships
 All the analysis was done using Seaborn and Matplotlib.
 
 
+
 ⏱️ Timeline
 
 This project was developed over several sessions during the bootcamp, combining data cleaning, exploration, and visualization.
+
 
 
 🏛️ Personal Situation
