@@ -164,5 +164,5 @@ class DataCleaner:
         self.clean_open_fire()
         self.clean_swimming_pool()
         #self.clean_state_of_building_column()
-        # self.calculate_price_per_m2_column() TODO: run this to add column with price per m2
+        self.calculate_price_per_m2_column()
         return self.df
