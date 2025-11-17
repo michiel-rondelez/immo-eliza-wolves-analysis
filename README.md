@@ -3,6 +3,9 @@
 
 This project focuses on cleaning, analyzing, and exploring a real dataset from the Belgian real estate market. The work was done in a group and follows a classic data analysis workflow: cleaning, normalization, visual exploration, and preparing the dataset for modeling.
 
+![Data analisis](https://www.pexels.com/es-es/foto/la-gente-discute-sobre-graficos-y-tasas-3184292/)
+
+
 
 📌 Main Objectives of the Project
 --------------------------------------------------------------------------------------
