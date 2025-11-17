@@ -7,13 +7,13 @@ This project focuses on cleaning, analyzing, and exploring a real dataset from t
 📌 Main Objectives of the Project
 --------------------------------------------------------------------------------------
 
-Understand the structure of the dataset and detect common issues (missing values, incorrect formats, duplicates, outliers…).
+* Understand the structure of the dataset and detect common issues (missing values, incorrect formats, duplicates, outliers…).
 
-Perform a complete cleaning of the dataset using a clear and reproducible logic.
+* Perform a complete cleaning of the dataset using a clear and reproducible logic.
 
-Normalize variables and standardize formats to analyze them without errors.
+* Normalize variables and standardize formats to analyze them without errors.
 
-Conduct exploratory analysis using visualizations and basic statistics.
+* Conduct exploratory analysis using visualizations and basic statistics.
 
 
 📁 Project Structure
