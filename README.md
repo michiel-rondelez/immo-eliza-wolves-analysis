@@ -61,36 +61,36 @@ The file data_cleaning.py carries out several important steps:
 
 ✔ General Cleaning
 
-Removal of duplicates based on Property ID.
+* Removal of duplicates based on Property ID.
 
-Removal of properties without a valid price.
+* Removal of properties without a valid price.
 
-Exclusion of unwanted sale types (Rent, PublicSale, Share).
+* Exclusion of unwanted sale types (Rent, PublicSale, Share).
 
 ✔ Format Fixes
 
-Convert strange HTML text in the Locality name column.
+* Convert strange HTML text in the Locality name column.
 
-Convert numerical columns to the correct format.
+* Convert numerical columns to the correct format.
 
-Fill missing values with Unknown or 0.
+* Fill missing values with Unknown or 0.
 
-Remove unnecessary whitespace.
+* Remove unnecessary whitespace.
 
 ✔ Final Output
 
-The script generates a clean CSV file.
+* The script generates a clean CSV file.
 
 
 
 🛠️ Usage
 --------------------------------------------------------------------------------------
 
-Clone the repository to your machine.
+* Clone the repository to your machine.
 
-Make sure you have Python 3.10+ installed.
+* Make sure you have Python 3.10+ installed.
 
-Install the required libraries
+* Install the required libraries
 
 
 
@@ -117,19 +117,19 @@ After cleaning the dataset, we performed a general exploratory analysis to bette
 
 This included:
 
-Distribution visualizations
+* Distribution visualizations
 
-Outlier detection
+* Outlier detection
 
-Missing value analysis
+* Missing value analysis
 
-Comparison between property types
+* Comparison between property types
 
-Correlation calculation for all numerical variables
+* Correlation calculation for all numerical variables
 
-A general heatmap to identify the strongest relationships
+* A general heatmap to identify the strongest relationships
 
-All the analysis was done using Seaborn and Matplotlib.
+* All the analysis was done using Seaborn and Matplotlib.
 
 
 
