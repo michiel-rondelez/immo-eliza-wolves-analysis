@@ -14,10 +14,10 @@ Perform a complete cleaning of the dataset using a clear and reproducible logic.
 Normalize variables and standardize formats to analyze them without errors.
 
 Conduct exploratory analysis using visualizations and basic statistics.
---------------------------------------------------------------------------------------
 
 
 📁 Project Structure
+--------------------------------------------------------------------------------------
 
 .
 
@@ -55,6 +55,7 @@ Conduct exploratory analysis using visualizations and basic statistics.
 
 
 🧹 What the script does
+--------------------------------------------------------------------------------------
 
 The file data_cleaning.py carries out several important steps:
 
@@ -83,6 +84,7 @@ The script generates a clean CSV file.
 
 
 🛠️ Usage
+--------------------------------------------------------------------------------------
 
 Clone the repository to your machine.
 
@@ -93,6 +95,7 @@ Install the required libraries
 
 
 🧩 Small example (extract from the script)
+--------------------------------------------------------------------------------------
 
 
     properties_data['Locality name'] = properties_data['Locality name'].apply(html.unescape)
@@ -108,6 +111,7 @@ Install the required libraries
 
 
 📊 Exploratory Data Analysis
+--------------------------------------------------------------------------------------
 
 After cleaning the dataset, we performed a general exploratory analysis to better understand the variables and their relationships.
 
@@ -130,11 +134,13 @@ All the analysis was done using Seaborn and Matplotlib.
 
 
 ⏱️ Timeline
+--------------------------------------------------------------------------------------
 
 This project was developed over several sessions during the bootcamp, combining data cleaning, exploration, and visualization.
 
 
 
 🏛️ Personal Situation
+--------------------------------------------------------------------------------------
 
 This project is part of immoeliza_data_analysis, completed during the AI Bootcamp at BeCode as a practical exercise in cleaning and analyzing real-world datasets.
