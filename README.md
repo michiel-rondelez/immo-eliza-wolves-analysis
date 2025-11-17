@@ -2,6 +2,7 @@
 --------------------------------------------------------------------------------------
 
 This project focuses on cleaning, analyzing, and exploring a real dataset from the Belgian real estate market. The work was done in a group and follows a classic data analysis workflow: cleaning, normalization, visual exploration, and preparing the dataset for modeling.
+--------------------------------------------------------------------------------------
 
 📌 Main Objectives of the Project
 
@@ -12,7 +13,7 @@ Perform a complete cleaning of the dataset using a clear and reproducible logic.
 Normalize variables and standardize formats to analyze them without errors.
 
 Conduct exploratory analysis using visualizations and basic statistics.
-
+--------------------------------------------------------------------------------------
 
 
 📁 Project Structure
