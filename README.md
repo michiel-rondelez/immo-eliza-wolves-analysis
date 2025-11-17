@@ -23,39 +23,6 @@ This project focuses on cleaning, analyzing, and exploring a real dataset from t
 📁 Project Structure
 --------------------------------------------------------------------------------------
 
-.
-
-├── data/
-
-│   ├── raw/
-
-│   │   └── data.csv           # Original dataset
-
-│   └── clean_data.csv         # Cleaned dataset generated
-
-│
-
-├── data_cleaning.py           # Main cleaning script
-
-├── data_cleaner_class.py      # Class containing cleaning functions
-
-│
-
-├── visuals/                   # Generated plots and visuals
-
-├── screenshots/               # Images used for documentation
-
-│
-
-├── visualizing.py             # Graphs and analysis
-
-│
-
-├── README.md                  # This file
-
-└── .gitignore
-
-
     .
     ├── data/
     │   ├── raw/
