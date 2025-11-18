@@ -15,15 +15,15 @@ import os
 class DataCleaner:
     def __init__(self, df):
         self.df = df.copy()
-        # Rename columns to standard names if needed
-        #self.df.rename(columns={
-        #    "Garden": "Garden Surface",
-        #    "Terrace": "Terrace Surface"
-       # })
+        #Rename columns to standard names if needed
+        self.df.rename(columns={
+            "Garden": "Garden Surface",
+            "Terrace": "Terrace Surface"
+        })
 
         # Duplicate Garden Surface and Terrace Surface to new columns Garden and Terrace
-        self.df['Garden Surface'] = df['Garden'].copy()
-        self.df['Terrace Surface'] = df['Terrace'].copy()
+        self.df['Garden Surface'] = df['Garden'].copy(deep=True)
+        self.df['Terrace Surface'] = df['Terrace'].copy(deep=True)
 
 
     #Convert True/False/NA to integers (1/0).
@@ -76,7 +76,8 @@ class DataCleaner:
     def clean_surface_columns(self, columns):
         for col in columns:
             self.df[col] = self.df[col].astype(str).str.replace(r'[^\d.]', '', regex=True)
-            self.df[col] = pd.to_numeric(self.df[col], errors='coerce')
+            self.df[col] = pd.to_numeric(self.df[col])
+            self.df[col].replace({0.00:None, 1.00:None})
 
      # Clean state of building  0 , 1, 2       
     def clean_state_of_building(self, x):
@@ -164,5 +165,5 @@ class DataCleaner:
         self.clean_open_fire()
         self.clean_swimming_pool()
         #self.clean_state_of_building_column()
-        # self.calculate_price_per_m2_column() TODO: run this to add column with price per m2
+        self.calculate_price_per_m2_column() ##TODO: run this to add column with price per m2
         return self.df

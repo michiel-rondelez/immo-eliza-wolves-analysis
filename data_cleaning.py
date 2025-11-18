@@ -34,11 +34,12 @@ properties_data = properties_data[~discarded_properties]
 #properties_data.drop('Type of sale', axis=1)
 
 properties_data = properties_data.drop(columns=['Type of sale'])
+"""
 print()
 print("Check if the column 'Type of sale' has been deleted")
 print()
 print(properties_data.columns)
-
+"""
 
 
 #fix the html encoding####################################################################################################
@@ -51,7 +52,7 @@ properties_data['Locality name'] = properties_data['Locality name'].apply(lambda
 #everything to int except property ID###################################################################################
 properties_data = dc(properties_data).clean_all()
 
-print(properties_data.info())
+#print(properties_data.info())
 
 #properties_data['Garden Surface'] = properties_data['Garden'].copy()
 #properties_data['Terrace Surface'] = properties_data['Terrace'].copy()
@@ -70,7 +71,13 @@ properties_data[["Garden", "Terrace", "Equipped kitchen", "Open fire", "Swimming
 
 #print(properties_data.select_dtypes(exclude=np.number).head(11))
 #print(properties_data[["Garden", "Terrace", "Equipped kitchen", "Open fire", "Swimming pool"]].head(11))
-
+"""
+#create m2 column##########################################################################################################
+temp_properties_data = dc(properties_data)
+temp_properties_data.calculate_price_per_m2_column()
+properties_data = temp_properties_data.df
+"""
+#print(properties_data.head())
 
 #remove empty spaces#######################################################################################################
 properties_data.replace(r'^\s*$', None, regex=True)
