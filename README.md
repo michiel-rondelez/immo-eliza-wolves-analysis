@@ -123,7 +123,7 @@ This included:
 
 The data that has been found
 --------------------------------------------------------------------------------------
-![Data](https://www.odwb.be/explore/dataset/postal-codes-belgium/table/?sort=official_language_or_language_combination)
+[Data](https://www.odwb.be/explore/dataset/postal-codes-belgium/table/?sort=official_language_or_language_combination)
 
 
 
