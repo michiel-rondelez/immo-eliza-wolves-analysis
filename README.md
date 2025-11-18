@@ -122,6 +122,12 @@ This included:
 
 
 
+The data that has been found
+--------------------------------------------------------------------------------------
+https://www.odwb.be/explore/dataset/postal-codes-belgium/table/?sort=official_language_or_language_combination
+
+
+
 ⏱️ Timeline
 --------------------------------------------------------------------------------------
 
