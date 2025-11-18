@@ -1,0 +1,197 @@
+corr Postal code - Postal code : 1.0
+corr Postal code - Price : -0.16618317247577694
+corr Postal code - Number of rooms : 0.035816755244223925
+corr Postal code - Living area : 0.012385537443035588
+corr Postal code - Equipped kitchen : -0.0006207264921194515
+corr Postal code - Furnished : 0.06686809401357036
+corr Postal code - Open fire : -0.049367319596433874
+corr Postal code - Terrace : -0.08292719481957705
+corr Postal code - Garden : 0.09165812019594499
+corr Postal code - Number of facades : -0.05465768402505703
+corr Postal code - Swimming pool : -0.04792594566888284
+corr Postal code - Garden Surface : 0.005775568562405527
+corr Postal code - Terrace Surface : 0.02083836018062863
+corr Postal code - Price per m2 : -0.031074810294216496
+corr Price - Postal code : -0.16618317247577694
+corr Price - Price : 1.0
+corr Price - Number of rooms : 0.46348707642033754
+corr Price - Living area : 0.5897994803371546
+corr Price - Equipped kitchen : 0.12801005144511557
+corr Price - Furnished : 0.020939573360734137
+corr Price - Open fire : 0.11063562428741035
+corr Price - Terrace : 0.16152303291191225
+corr Price - Garden : 0.17501542800848552
+corr Price - Number of facades : 0.2760373479787499
+corr Price - Swimming pool : 0.28376196192005426
+corr Price - Garden Surface : 0.218945554900141
+corr Price - Terrace Surface : 0.08670481172822296
+corr Price - Price per m2 : 0.03640951910363236
+corr Number of rooms - Postal code : 0.035816755244223925
+corr Number of rooms - Price : 0.4634870764203375
+corr Number of rooms - Number of rooms : 0.9999999999999999
+corr Number of rooms - Living area : 0.7197685324384394
+corr Number of rooms - Equipped kitchen : 0.055528144028789764
+corr Number of rooms - Furnished : -0.0039436247115774824
+corr Number of rooms - Open fire : 0.09954735312615319
+corr Number of rooms - Terrace : 0.04084084455231006
+corr Number of rooms - Garden : 0.3166037074236222
+corr Number of rooms - Number of facades : 0.2834740707113759
+corr Number of rooms - Swimming pool : 0.13857767735380372
+corr Number of rooms - Garden Surface : 0.1512022651686645
+corr Number of rooms - Terrace Surface : 0.07996561429742313
+corr Number of rooms - Price per m2 : -0.021263298314850576
+corr Living area - Postal code : 0.01238553744303559
+corr Living area - Price : 0.5897994803371545
+corr Living area - Number of rooms : 0.7197685324384394
+corr Living area - Living area : 1.0
+corr Living area - Equipped kitchen : 0.056892369381603
+corr Living area - Furnished : -0.01414710145132978
+corr Living area - Open fire : 0.11406821393604143
+corr Living area - Terrace : 0.048426136931073144
+corr Living area - Garden : 0.26681550990962133
+corr Living area - Number of facades : 0.29376952689161745
+corr Living area - Swimming pool : 0.21386262768611283
+corr Living area - Garden Surface : 0.2255071780376864
+corr Living area - Terrace Surface : 0.1025430091396984
+corr Living area - Price per m2 : -0.07624438374805194
+corr Equipped kitchen - Postal code : -0.0006207264921194516
+corr Equipped kitchen - Price : 0.12801005144511554
+corr Equipped kitchen - Number of rooms : 0.055528144028789764
+corr Equipped kitchen - Living area : 0.05689236938160299
+corr Equipped kitchen - Equipped kitchen : 1.0
+corr Equipped kitchen - Furnished : 0.015206134726982807
+corr Equipped kitchen - Open fire : 0.0996300459925424
+corr Equipped kitchen - Terrace : 0.1730192636437183
+corr Equipped kitchen - Garden : 0.0249493174706559
+corr Equipped kitchen - Number of facades : -0.006160672170670627
+corr Equipped kitchen - Swimming pool : 0.06126913891638867
+corr Equipped kitchen - Garden Surface : 0.004251420379928754
+corr Equipped kitchen - Terrace Surface : -0.0031339746865240085
+corr Equipped kitchen - Price per m2 : 0.06989160573444318
+corr Furnished - Postal code : 0.06686809401357036
+corr Furnished - Price : 0.020939573360734137
+corr Furnished - Number of rooms : -0.0039436247115774824
+corr Furnished - Living area : -0.01414710145132978
+corr Furnished - Equipped kitchen : 0.015206134726982807
+corr Furnished - Furnished : 1.0
+corr Furnished - Open fire : -0.011906738682101558
+corr Furnished - Terrace : 0.03413839355051825
+corr Furnished - Garden : -0.031330727653659116
+corr Furnished - Number of facades : 0.06004962635076524
+corr Furnished - Swimming pool : 0.07225613771183813
+corr Furnished - Garden Surface : -0.009464858899354122
+corr Furnished - Terrace Surface : -0.0007654053664045636
+corr Furnished - Price per m2 : 0.003967474593641969
+corr Open fire - Postal code : -0.049367319596433874
+corr Open fire - Price : 0.11063562428741035
+corr Open fire - Number of rooms : 0.09954735312615319
+corr Open fire - Living area : 0.11406821393604143
+corr Open fire - Equipped kitchen : 0.09963004599254241
+corr Open fire - Furnished : -0.011906738682101558
+corr Open fire - Open fire : 1.0
+corr Open fire - Terrace : 0.0600719619443014
+corr Open fire - Garden : 0.09389009746539696
+corr Open fire - Number of facades : 0.11881560239064624
+corr Open fire - Swimming pool : 0.0688663966788228
+corr Open fire - Garden Surface : 0.03546571843335484
+corr Open fire - Terrace Surface : 0.023131142056828247
+corr Open fire - Price per m2 : 0.014743676594478521
+corr Terrace - Postal code : -0.08292719481957705
+corr Terrace - Price : 0.16152303291191225
+corr Terrace - Number of rooms : 0.04084084455231006
+corr Terrace - Living area : 0.048426136931073144
+corr Terrace - Equipped kitchen : 0.1730192636437183
+corr Terrace - Furnished : 0.03413839355051825
+corr Terrace - Open fire : 0.0600719619443014
+corr Terrace - Terrace : 1.0
+corr Terrace - Garden : 0.07829517323685119
+corr Terrace - Number of facades : 0.0682870388231727
+corr Terrace - Swimming pool : 0.08830531049501547
+corr Terrace - Garden Surface : 0.0003141000013451933
+
+corr Terrace - Terrace Surface : nan
+corr Terrace - Price per m2 : -0.057406526530056255
+corr Garden - Postal code : 0.09165812019594498
+corr Garden - Price : 0.17501542800848552
+corr Garden - Number of rooms : 0.3166037074236222
+corr Garden - Living area : 0.26681550990962133
+corr Garden - Equipped kitchen : 0.024949317470655895
+corr Garden - Furnished : -0.031330727653659116
+corr Garden - Open fire : 0.09389009746539696
+corr Garden - Terrace : 0.07829517323685119
+corr Garden - Garden : 1.0
+corr Garden - Number of facades : 0.3284198196142946
+corr Garden - Swimming pool : 0.09450659022575209
+corr Garden - Garden Surface : nan
+corr Garden - Terrace Surface : 0.07699314734518177
+corr Garden - Price per m2 : 0.01195759895008852
+corr Number of facades - Postal code : -0.05465768402505703
+corr Number of facades - Price : 0.2760373479787499
+corr Number of facades - Number of rooms : 0.2834740707113759
+corr Number of facades - Living area : 0.2937695268916175
+corr Number of facades - Equipped kitchen : -0.006160672170670626
+corr Number of facades - Furnished : 0.060049626350765245
+corr Number of facades - Open fire : 0.11881560239064623
+corr Number of facades - Terrace : 0.0682870388231727
+corr Number of facades - Garden : 0.3284198196142946
+corr Number of facades - Number of facades : 0.9999999999999999
+corr Number of facades - Swimming pool : 0.19977577789092943
+corr Number of facades - Garden Surface : 0.14168463013848426
+corr Number of facades - Terrace Surface : 0.06214257649069839
+corr Number of facades - Price per m2 : 0.03893474763310519
+corr Swimming pool - Postal code : -0.04792594566888284
+corr Swimming pool - Price : 0.28376196192005426
+corr Swimming pool - Number of rooms : 0.13857767735380372
+corr Swimming pool - Living area : 0.21386262768611283
+corr Swimming pool - Equipped kitchen : 0.06126913891638867
+corr Swimming pool - Furnished : 0.07225613771183813
+corr Swimming pool - Open fire : 0.0688663966788228
+corr Swimming pool - Terrace : 0.08830531049501547
+corr Swimming pool - Garden : 0.09450659022575207
+corr Swimming pool - Number of facades : 0.19977577789092943
+corr Swimming pool - Swimming pool : 0.9999999999999999
+corr Swimming pool - Garden Surface : 0.16149845968484658
+corr Swimming pool - Terrace Surface : 0.06230213970385084
+corr Swimming pool - Price per m2 : 0.017802772244098507
+corr Garden Surface - Postal code : 0.005775568562405526
+corr Garden Surface - Price : 0.218945554900141
+corr Garden Surface - Number of rooms : 0.1512022651686645
+corr Garden Surface - Living area : 0.22550717803768638
+corr Garden Surface - Equipped kitchen : 0.004251420379928755
+corr Garden Surface - Furnished : -0.009464858899354122
+corr Garden Surface - Open fire : 0.03546571843335484
+corr Garden Surface - Terrace : 0.0003141000013451933
+corr Garden Surface - Garden : nan
+corr Garden Surface - Number of facades : 0.14168463013848423
+corr Garden Surface - Swimming pool : 0.16149845968484658
+corr Garden Surface - Garden Surface : 0.9999999999999999
+corr Garden Surface - Terrace Surface : 0.11503349089260706
+corr Garden Surface - Price per m2 : 0.002472542560053122
+corr Terrace Surface - Postal code : 0.020838360180628634
+corr Terrace Surface - Price : 0.08670481172822297
+corr Terrace Surface - Number of rooms : 0.07996561429742312
+corr Terrace Surface - Living area : 0.10254300913969838
+corr Terrace Surface - Equipped kitchen : -0.0031339746865240085
+corr Terrace Surface - Furnished : -0.0007654053664045636
+corr Terrace Surface - Open fire : 0.023131142056828247
+corr Terrace Surface - Terrace : nan
+corr Terrace Surface - Garden : 0.07699314734518178
+corr Terrace Surface - Number of facades : 0.06214257649069839
+corr Terrace Surface - Swimming pool : 0.062302139703850845
+corr Terrace Surface - Garden Surface : 0.11503349089260706
+corr Terrace Surface - Terrace Surface : 1.0
+corr Terrace Surface - Price per m2 : -0.0032640961000373722
+corr Price per m2 - Postal code : -0.031074810294216493
+corr Price per m2 - Price : 0.036409519103632354
+corr Price per m2 - Number of rooms : -0.021263298314850573
+corr Price per m2 - Living area : -0.07624438374805194
+corr Price per m2 - Equipped kitchen : 0.06989160573444318
+corr Price per m2 - Furnished : 0.003967474593641968
+corr Price per m2 - Open fire : 0.014743676594478523
+corr Price per m2 - Terrace : -0.05740652653005625
+corr Price per m2 - Garden : 0.011957598950088522
+corr Price per m2 - Number of facades : 0.0389347476331052
+corr Price per m2 - Swimming pool : 0.017802772244098507
+corr Price per m2 - Garden Surface : 0.002472542560053122
+corr Price per m2 - Terrace Surface : -0.0032640961000373727
+corr Price per m2 - Price per m2 : 1.0
