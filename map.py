@@ -100,4 +100,4 @@ def map_per_type(type_property):
     fig.show()
 
 map_per_type("House")
-#map_per_type("Appartment")
+map_per_type("Appartment")
